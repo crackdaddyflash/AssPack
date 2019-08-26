@@ -2632,6 +2632,15 @@ false
 <p>Permission for blocks that players can right-click within claimed chunks</p>
 </td></tr>
 <tr>
+<td><code>ftbutilities.claims.block.interact.advancedrocketry.airlock_door</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+</td></tr>
+<tr>
 <td><code>ftbutilities.claims.block.interact.biomesoplenty.cherry_door_block</code></td>
 <td><code>bool</code></td>
 <td class='true' colspan='2'><code>true</code></td>
@@ -3523,6 +3532,15 @@ false
 '>
 </td></tr>
 <tr>
+<td><code>ftbutilities.claims.block.interact.integrateddynamics.menril_door</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+</td></tr>
+<tr>
 <td><code>ftbutilities.claims.block.interact.minecraft.acacia_door</code></td>
 <td><code>bool</code></td>
 <td class='true' colspan='2'><code>true</code></td>
@@ -3704,6 +3722,15 @@ false
 </td></tr>
 <tr>
 <td><code>ftbutilities.claims.block.interact.natura.overworld_door_tiger</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+</td></tr>
+<tr>
+<td><code>ftbutilities.claims.block.interact.nuclearcraft.reactor_door</code></td>
 <td><code>bool</code></td>
 <td class='true' colspan='2'><code>true</code></td>
 <td title='
@@ -4047,7 +4074,19 @@ false
 '>
 <p>/warp Warmup Timer</p>
 </td></tr>
+<tr>
+<td><code>pregen-chunkview</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Allows Access to the ChunkView in the clientOnly part of Chunk Pregen</p>
+</td></tr>
 </table><br><table><tr><th>Available command nodes</th><th>Usage</th></tr>
+<tr><td><code>command.advancedrocketry.advancedrocketry</code></td><td class='error' title='Invalid usage language key!'>advancedRocketry help</td></tr>
 <tr><td><code>command.advancement</code></td><td>/advancement &lt;grant|revoke|test&gt; &lt;player&gt;</td></tr>
 <tr><td><code>command.appliedenergistics2.ae2</code></td><td>Commands provided by Applied Energistics 2 - use /ae2 list for a list, and /ae2 help _____ for help with a command.</td></tr>
 <tr><td><code>command.aroma1997core.aroma1997</code></td><td class='error' title='Invalid usage language key!'>/aroma1997 reloadclient<br>/aroma1997 setupDeathCounter<br>/aroma1997 setupDeathCounter &lt;location&gt;<br>/aroma1997 setupDeathCounter &lt;location&gt; &lt;name&gt;<br>/aroma1997 dimension<br>/aroma1997 tp &lt;dimension&gt;<br>/aroma1997 tp &lt;x&gt; &lt;y&gt; &lt;z&gt;<br>/aroma1997 tp &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;dimension&gt;<br>/aroma1997 tabcomplete &lt;command&gt;<br>/aroma1997 openGui<br>/aroma1997 debugCrash</td></tr>
@@ -4094,6 +4133,7 @@ false
 <tr><td><code>command.buildcraftlib.buildcraft.reload</code></td><td>command.buildcraft.reload</td></tr>
 <tr><td><code>command.buildcraftlib.buildcraft.version</code></td><td>Displays the current and latest BC version.</td></tr>
 <tr><td><code>command.cctweaked.computercraft</code></td><td class='error' title='Invalid usage language key!'>/computercraft &lt;help|view|reload|dump|turn-on|tp|track|shutdown|queue&gt;</td></tr>
+<tr><td><code>command.chunkpregenerator.pregen</code></td><td class='error' title='Invalid usage language key!'>/pregen Allows you to Pregenerate Worlds, Control Structures, Delete Chunks and other things</td></tr>
 <tr><td><code>command.clear</code></td><td>/clear [player] [item] [data] [maxCount] [dataTag]</td></tr>
 <tr><td><code>command.clone</code></td><td>/clone &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; [maskMode] [cloneMode]</td></tr>
 <tr><td><code>command.cofhcore.cofh</code></td><td class='error' title='Invalid usage language key!'>/cofh help</td></tr>
@@ -4101,8 +4141,17 @@ false
 <tr><td><code>command.cofhworld.cofhworld.reload</code></td><td>Reloads CoFHWorld configuration</td></tr>
 <tr><td><code>command.cofhworld.cofhworld.version</code></td><td>cofhworld.version.usage</td></tr>
 <tr><td><code>command.conarm.leveluparmor</code></td><td class='error' title='Invalid usage language key!'>/levelupArmor while holding a tinker armor in your hand</td></tr>
-<tr><td><code>command.crafttweaker.crafttweaker</code></td><td class='error' title='Invalid usage language key!'>/crafttweaker biomeTypes | biomes | blockinfo | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | chiselGroups | conflict | copy | discord | docs | dumpzs | enchants | entities | foods | give | hand | help | inventory | jeiCategories | json | keyNames | liquids | log | mods | names | nbt | oredict | potions | recipeNames | recipes | reload | scripts | seeds | syntax | thaumcraftDump | ticmat | wiki | zslint</td></tr>
+<tr><td><code>command.crafttweaker.crafttweaker</code></td><td class='error' title='Invalid usage language key!'>/crafttweaker biomeTypes | biomes | blockinfo | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | chiselGroups | conflict | copy | discord | docs | dumpzs | enchants | entities | foods | gases | give | hand | help | infuseTypes | inventory | jeiCategories | json | keyNames | liquids | log | mekrecipes | mods | names | nbt | oredict | potions | recipeNames | recipes | reload | scripts | seeds | syntax | thaumcraftDump | ticmat | wiki | zslint</td></tr>
 <tr><td><code>command.crafttweaker.ctgui</code></td><td class='error' title='Invalid usage language key!'>CTGUI &lt;id&gt;</td></tr>
+<tr><td><code>command.cyclopscore.commoncapabilities</code></td><td class='error' title='Invalid usage language key!'>/commoncapabilities &lt;config | version&gt;</td></tr>
+<tr><td><code>command.cyclopscore.cyclopscore</code></td><td class='error' title='Invalid usage language key!'>/cyclopscore &lt;ignite | debug | dumpregistries | reloadresources | config | version | recursion&gt;</td></tr>
+<tr><td><code>command.cyclopscore.integratedcrafting</code></td><td class='error' title='Invalid usage language key!'>/integratedcrafting &lt;config | version&gt;</td></tr>
+<tr><td><code>command.cyclopscore.integrateddynamics</code></td><td class='error' title='Invalid usage language key!'>/integrateddynamics &lt;networkdiagnostics | config | version | crash&gt;</td></tr>
+<tr><td><code>command.cyclopscore.integrateddynamicscompat</code></td><td class='error' title='Invalid usage language key!'>/integrateddynamicscompat &lt;config | version&gt;</td></tr>
+<tr><td><code>command.cyclopscore.integratedterminals</code></td><td class='error' title='Invalid usage language key!'>/integratedterminals &lt;config | version&gt;</td></tr>
+<tr><td><code>command.cyclopscore.integratedterminalscompat</code></td><td class='error' title='Invalid usage language key!'>/integratedterminalscompat &lt;config | version&gt;</td></tr>
+<tr><td><code>command.cyclopscore.integratedtunnels</code></td><td class='error' title='Invalid usage language key!'>/integratedtunnels &lt;config | version&gt;</td></tr>
+<tr><td><code>command.cyclopscore.integratedtunnelscompat</code></td><td class='error' title='Invalid usage language key!'>/integratedtunnelscompat &lt;config | version&gt;</td></tr>
 <tr><td><code>command.debug</code></td><td>/debug &lt;start|stop&gt;</td></tr>
 <tr><td><code>command.deepresonance.drgen</code></td><td class='error' title='Invalid usage language key!'>drgen &lt;subcommand&gt; &lt;args&gt; (try 'drgen help' for more info)</td></tr>
 <tr><td><code>command.defaultgamemode</code></td><td>/defaultgamemode &lt;mode&gt;</td></tr>
@@ -4226,20 +4275,28 @@ false
 <tr><td><code>command.immersiveengineering.ie.mineral.set</code></td><td class='error' title='Invalid usage language key!'>/mineral set &lt;mineral name&gt; (surround the name in &lt;angle brackets&gt; if it contains a space)</td></tr>
 <tr><td><code>command.immersiveengineering.ie.mineral.setdepletion</code></td><td class='error' title='Invalid usage language key!'>/mineral setDepletion &lt;depletion&gt;</td></tr>
 <tr><td><code>command.immersivepetroleum.ip</code></td><td class='error' title='Invalid usage language key!'>/ip &lt;help|reservoir&gt;</td></tr>
+<tr><td><code>command.immersiverailroading.immersiverailroading</code></td><td class='error' title='Invalid usage language key!'>Usage: immersiverailroading (reload|debug)</td></tr>
 <tr><td><code>command.industrialwires.iw</code></td><td class='error' title='Invalid usage language key!'>/iw &lt;getmarx|resetmarx|setmarx &lt;value&gt;&gt;</td></tr>
 <tr><td><code>command.jeresources.jer_profile</code></td><td class='error' title='Invalid usage language key!'>jer_profile [chunks|stop] [all]</td></tr>
 <tr><td><code>command.journeymap.jtp</code></td><td class='error' title='Invalid usage language key!'>/jtp &lt;x y z dim&gt;</td></tr>
 <tr><td><code>command.kill</code></td><td>/kill [player|entity]</td></tr>
 <tr><td><code>command.locate</code></td><td>/locate &lt;feature&gt;</td></tr>
-<tr><td><code>command.lostcities.lc_buildpart</code></td><td class='error' title='Invalid usage language key!'>lc_buildpart &lt;partname&gt;</td></tr>
-<tr><td><code>command.lostcities.lc_debug</code></td><td>lc_debug</td></tr>
-<tr><td><code>command.lostcities.lc_exportbuilding</code></td><td class='error' title='Invalid usage language key!'>lc_exportbuilding &lt;file&gt; &lt;floors&gt;</td></tr>
-<tr><td><code>command.lostcities.lc_exportpart</code></td><td class='error' title='Invalid usage language key!'>lc_exportpart &lt;file&gt; &lt;slices&gt;</td></tr>
 <tr><td><code>command.me</code></td><td>/me &lt;action ...&gt;</td></tr>
+<tr><td><code>command.mekanism.mek.chunk.clear</code></td><td>Remove all chunks from watch list for chunk loading/unloading events</td></tr>
+<tr><td><code>command.mekanism.mek.chunk.flush</code></td><td>cmd.mek.chunk.flush.usage</td></tr>
+<tr><td><code>command.mekanism.mek.chunk.unwatch</code></td><td>Remove caller's chunk from watch list for chunk loading/unloading events</td></tr>
+<tr><td><code>command.mekanism.mek.chunk.watch</code></td><td>Add caller's chunk to watch list for loading/unloading events</td></tr>
+<tr><td><code>command.mekanism.mek.debug</code></td><td></td></tr>
+<tr><td><code>command.mekanism.mek.testrules</code></td><td>Setup world rules for testing (no mob spawning, daylight cycle or weather)</td></tr>
+<tr><td><code>command.mekanism.mek.tp</code></td><td>Teleport to new coordinates, saving last position on a stack</td></tr>
+<tr><td><code>command.mekanism.mek.tpop</code></td><td>Return to last position on stack</td></tr>
+<tr><td><code>command.mekanism.mtp</code></td><td>Teleport to new coordinates, saving last position on a stack</td></tr>
+<tr><td><code>command.mekanism.mtpop</code></td><td>Return to last position on stack</td></tr>
 <tr><td><code>command.minetogether.chkillall</code></td><td>creeperhostserver.command.killall.usage</td></tr>
 <tr><td><code>command.minetogether.chpregen</code></td><td>/chpregen remove current|dimID</td></tr>
 <tr><td><code>command.minetogether.invite</code></td><td>/invite &lt;list|add|remove|reload&gt;</td></tr>
 <tr><td><code>command.morpheus.morpheus</code></td><td class='error' title='Invalid usage language key!'>/morpheus &lt;alert : version&gt; | /morpheus percent &lt;percentage&gt; | /morpheus disable &lt;dimension number&gt;</td></tr>
+<tr><td><code>command.nuclearcraft.nc_set_chunk_radiation</code></td><td>/nc_set_chunk_radiation &lt;radiation_level&gt; [coord_x] [coord_z]</td></tr>
 <tr><td><code>command.openblocks.flimflam</code></td><td class='error' title='Invalid usage language key!'>flimflam &lt;player&gt; [&lt;effect&gt;]</td></tr>
 <tr><td><code>command.openblocks.luck</code></td><td class='error' title='Invalid usage language key!'>luck &lt;player&gt; [&lt;amount&gt;]</td></tr>
 <tr><td><code>command.openblocks.ob_inventory</code></td><td class='error' title='Invalid usage language key!'>ob_inventory store &lt;player&gt;<br>ob_inventory restore &lt;player&gt; &lt;file without 'inventory-' and '.dat'&gt;<br>ob_inventory spawn &lt;file without 'inventory-' and '.dat'&gt; [&lt;sub_inventory<br>'main'&gt;,  [&lt;index of item&gt;]]</td></tr>
@@ -4265,9 +4322,10 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.refinedstorage.createdisk</code></td><td>/createdisk &lt;player&gt; &lt;item&gt; &lt;metadata&gt; &lt;id&gt;</td></tr>
 <tr><td><code>command.replaceitem</code></td><td>/replaceitem &lt;entity|block&gt; ...</td></tr>
 <tr><td><code>command.rftools.rftcfg</code></td><td class='error' title='Invalid usage language key!'>rftcfg &lt;subcommand&gt; &lt;args&gt; (try 'rftcfg help' for more info)</td></tr>
-<tr><td><code>command.rftools.rftdb</code></td><td class='error' title='Invalid usage language key!'>rftdb &lt;subcommand&gt; &lt;args&gt; (try 'rftdb help' for more info)</td></tr>
 <tr><td><code>command.rftools.rftshape</code></td><td class='error' title='Invalid usage language key!'>rftshape &lt;subcommand&gt; &lt;args&gt; (try 'rftshape help' for more info)</td></tr>
 <tr><td><code>command.rftools.rfttp</code></td><td class='error' title='Invalid usage language key!'>rfttp &lt;subcommand&gt; &lt;args&gt; (try 'rfttp help' for more info)</td></tr>
+<tr><td><code>command.rftoolsdim.rftdb</code></td><td class='error' title='Invalid usage language key!'>rftdb &lt;subcommand&gt; &lt;args&gt; (try 'rftdb help' for more info)</td></tr>
+<tr><td><code>command.rftoolsdim.rftdim</code></td><td class='error' title='Invalid usage language key!'>rftdim &lt;subcommand&gt; &lt;args&gt; (try 'rftdim help' for more info)</td></tr>
 <tr><td><code>command.rpreload</code></td><td class='error' title='Invalid usage language key!'>/rpreload</td></tr>
 <tr><td><code>command.say</code></td><td>/say &lt;message ...&gt;</td></tr>
 <tr><td><code>command.scoreboard</code></td><td>/scoreboard &lt;objectives|players|teams&gt; ...</td></tr>
@@ -4298,6 +4356,8 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.testforblock</code></td><td>/testforblock &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;block&gt; [dataValue|-1|state|*] [dataTag]</td></tr>
 <tr><td><code>command.testforblocks</code></td><td>/testforblocks &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; [mode]</td></tr>
 <tr><td><code>command.thaumcraft.thaumcraft</code></td><td class='error' title='Invalid usage language key!'>/thaumcraft &lt;action&gt; [&lt;player&gt; [&lt;params&gt;]]</td></tr>
+<tr><td><code>command.thaumictinkerer.dumpenchants</code></td><td>dumpenchants</td></tr>
+<tr><td><code>command.thaumictinkerer.refreshmulti</code></td><td>refreshmulti</td></tr>
 <tr><td><code>command.thutcore.tcterrain</code></td><td class='error' title='Invalid usage language key!'>/tcterrain &lt;arguments&gt;</td></tr>
 <tr><td><code>command.thutcore.thutcoresettings</code></td><td class='error' title='Invalid usage language key!'>/thutcoresettings&lt;option name&gt; &lt;optional:newvalue&gt;</td></tr>
 <tr><td><code>command.time</code></td><td>/time &lt;set|add|query&gt; &lt;value&gt;</td></tr>
@@ -4307,7 +4367,6 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.topaddons.tophelmet</code></td><td class='error' title='Invalid usage language key!'>/tophelmet blacklist &lt;add/remove&gt;</td></tr>
 <tr><td><code>command.tp</code></td><td>/tp [target player] &lt;destination player&gt;<br>/tp [target player] &lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;yaw&gt; &lt;pitch&gt;]</td></tr>
 <tr><td><code>command.trigger</code></td><td>/trigger &lt;objective&gt; &lt;add|set&gt; &lt;value&gt;</td></tr>
-<tr><td><code>command.twilightforest.tffeature</code></td><td>/tffeature &lt;info|reactivate|conquer|center&gt;</td></tr>
 <tr><td><code>command.valkyrielib.removeowner</code></td><td>valkyrielib.removeowner</td></tr>
 <tr><td><code>command.weather</code></td><td>/weather &lt;clear|rain|thunder&gt; [duration in seconds]</td></tr>
 <tr><td><code>command.woot.woot.dev.debug</code></td><td>Use /woot dev debug {[!]event|show|list}.</td></tr>
