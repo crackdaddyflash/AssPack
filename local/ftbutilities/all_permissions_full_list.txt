@@ -1,4 +1,4 @@
-20050 nodes in total
+20055 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -444,6 +444,7 @@ ftbutilities.claims.block.edit.advancedrocketry.vitrifiedsand: OP
 ftbutilities.claims.block.edit.advancedrocketry.warpcore: OP
 ftbutilities.claims.block.edit.advancedrocketry.warpmonitor: OP
 ftbutilities.claims.block.edit.advancedrocketry.wirelesstransciever: OP
+ftbutilities.claims.block.edit.alternatingflux.connector: OP
 ftbutilities.claims.block.edit.appliedenergistics2.cable_bus: OP
 ftbutilities.claims.block.edit.appliedenergistics2.cell_workbench: OP
 ftbutilities.claims.block.edit.appliedenergistics2.charged_quartz_ore: OP
@@ -5709,6 +5710,7 @@ ftbutilities.claims.block.interact.advancedrocketry.vitrifiedsand: OP
 ftbutilities.claims.block.interact.advancedrocketry.warpcore: OP
 ftbutilities.claims.block.interact.advancedrocketry.warpmonitor: OP
 ftbutilities.claims.block.interact.advancedrocketry.wirelesstransciever: OP
+ftbutilities.claims.block.interact.alternatingflux.connector: OP
 ftbutilities.claims.block.interact.appliedenergistics2.cable_bus: OP
 ftbutilities.claims.block.interact.appliedenergistics2.cell_workbench: OP
 ftbutilities.claims.block.interact.appliedenergistics2.charged_quartz_ore: OP
@@ -11204,6 +11206,9 @@ ftbutilities.claims.item.advancedrocketry.wirelesstransciever: ALL
 ftbutilities.claims.item.ae2wtlib.infinity_booster_card: ALL
 ftbutilities.claims.item.ae2wtlib.wut: ALL
 ftbutilities.claims.item.akashictome.tome: ALL
+ftbutilities.claims.item.alternatingflux.connector: ALL
+ftbutilities.claims.item.alternatingflux.material: ALL
+ftbutilities.claims.item.alternatingflux.wirecoil: ALL
 ftbutilities.claims.item.appliedenergistics2.biometric_card: ALL
 ftbutilities.claims.item.appliedenergistics2.cable_bus: ALL
 ftbutilities.claims.item.appliedenergistics2.cell_workbench: ALL
