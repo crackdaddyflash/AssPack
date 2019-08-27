@@ -1,20 +1,26 @@
 /astralsorcery
+/cache
 /changelogs
 /journeymap
+/llibrary
 /logs
 /resourcepacks
 /saves
+/screenshots
 /server-resource-packs
 /snapshots-server
 /valkyrielib
 /woot
+
 /.ReAuth.cfg
 /BotaniaVars.dat
 /crafttweaker.log
 /knownkeys.txt
+/mtservers.dat
+/options.txt
 /perms.txt
+/servers.dat
 /usercache.json
 /usernamecache.json
-/llibrary
 
 /config/thaumicjei_itemstack_aspects.json 
