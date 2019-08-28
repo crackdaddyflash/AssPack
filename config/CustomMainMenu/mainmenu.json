@@ -3,7 +3,7 @@
     {
 		"modpack":
 		{
-            "image" : "mainmenu:modpack.png",
+            "image" : "mainmenu:cooltext.png",
             "posX" : -125,
             "posY" : -5,
             "width" : 250,
