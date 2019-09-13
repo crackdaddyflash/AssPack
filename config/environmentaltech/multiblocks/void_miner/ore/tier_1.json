@@ -454,6 +454,16 @@
       "target": "black",
       "weight": 4,
       "id": "environmentaltech:lonsdaleite_crystal"
-    }
+    },
+    {
+      "target": "brown",
+      "weight": 300,
+      "id": "OD:oreTitanium"
+    },
+    {
+      "target": "pink",
+      "weight": 250,
+      "id": "OD:oreDilithium"
+    },
   ]
 }
