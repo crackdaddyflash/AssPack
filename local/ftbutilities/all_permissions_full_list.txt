@@ -1,4 +1,4 @@
-23085 nodes in total
+23337 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -617,6 +617,8 @@ ftbutilities.claims.block.edit.ae2stuff.grower: OP
 ftbutilities.claims.block.edit.ae2stuff.inscriber: OP
 ftbutilities.claims.block.edit.ae2stuff.wireless: OP
 ftbutilities.claims.block.edit.alternatingflux.connector: OP
+ftbutilities.claims.block.edit.apotheosis.hellshelf: OP
+ftbutilities.claims.block.edit.apotheosis.prismatic_altar: OP
 ftbutilities.claims.block.edit.appliedenergistics2.cable_bus: OP
 ftbutilities.claims.block.edit.appliedenergistics2.cell_workbench: OP
 ftbutilities.claims.block.edit.appliedenergistics2.charged_quartz_ore: OP
@@ -3632,6 +3634,20 @@ ftbutilities.claims.block.edit.ic2.te: OP
 ftbutilities.claims.block.edit.ic2.uu_matter: OP
 ftbutilities.claims.block.edit.ic2.wall: OP
 ftbutilities.claims.block.edit.ic2.weed_ex: OP
+ftbutilities.claims.block.edit.icbmclassic.batterybox: OP
+ftbutilities.claims.block.edit.icbmclassic.concrete: OP
+ftbutilities.claims.block.edit.icbmclassic.cruiselauncher: OP
+ftbutilities.claims.block.edit.icbmclassic.emptower: OP
+ftbutilities.claims.block.edit.icbmclassic.explosives: OP
+ftbutilities.claims.block.edit.icbmclassic.glassbutton: OP
+ftbutilities.claims.block.edit.icbmclassic.glasspressureplate: OP
+ftbutilities.claims.block.edit.icbmclassic.launcherbase: OP
+ftbutilities.claims.block.edit.icbmclassic.launcherframe: OP
+ftbutilities.claims.block.edit.icbmclassic.launcherscreen: OP
+ftbutilities.claims.block.edit.icbmclassic.multiblock: OP
+ftbutilities.claims.block.edit.icbmclassic.radarstation: OP
+ftbutilities.claims.block.edit.icbmclassic.reinforcedglass: OP
+ftbutilities.claims.block.edit.icbmclassic.spikes: OP
 ftbutilities.claims.block.edit.iceandfire.ash: OP
 ftbutilities.claims.block.edit.iceandfire.chared_cobblestone: OP
 ftbutilities.claims.block.edit.iceandfire.chared_dirt: OP
@@ -6068,6 +6084,41 @@ ftbutilities.claims.block.edit.totemic.wind_chime: OP
 ftbutilities.claims.block.edit.totemic.wooden_pillar: OP
 ftbutilities.claims.block.edit.totemic.wooden_pillar_base: OP
 ftbutilities.claims.block.edit.translocators.craftinggrid: OP
+ftbutilities.claims.block.edit.vampirism.alchemical_cauldron: OP
+ftbutilities.claims.block.edit.vampirism.alchemical_fire: OP
+ftbutilities.claims.block.edit.vampirism.altar_infusion: OP
+ftbutilities.claims.block.edit.vampirism.altar_inspiration: OP
+ftbutilities.claims.block.edit.vampirism.altar_pillar: OP
+ftbutilities.claims.block.edit.vampirism.altar_tip: OP
+ftbutilities.claims.block.edit.vampirism.block_blood_fluid: OP
+ftbutilities.claims.block.edit.vampirism.block_coffin: OP
+ftbutilities.claims.block.edit.vampirism.block_impure_blood_fluid: OP
+ftbutilities.claims.block.edit.vampirism.blood_container: OP
+ftbutilities.claims.block.edit.vampirism.blood_grinder: OP
+ftbutilities.claims.block.edit.vampirism.blood_pedestal: OP
+ftbutilities.claims.block.edit.vampirism.blood_potion_table: OP
+ftbutilities.claims.block.edit.vampirism.blood_sieve: OP
+ftbutilities.claims.block.edit.vampirism.castle_block: OP
+ftbutilities.claims.block.edit.vampirism.castle_slab: OP
+ftbutilities.claims.block.edit.vampirism.castle_slab_double: OP
+ftbutilities.claims.block.edit.vampirism.castle_stairs_dark: OP
+ftbutilities.claims.block.edit.vampirism.castle_stairs_dark_stone: OP
+ftbutilities.claims.block.edit.vampirism.castle_stairs_purple: OP
+ftbutilities.claims.block.edit.vampirism.church_altar: OP
+ftbutilities.claims.block.edit.vampirism.cursed_earth: OP
+ftbutilities.claims.block.edit.vampirism.fire_place: OP
+ftbutilities.claims.block.edit.vampirism.garlic: OP
+ftbutilities.claims.block.edit.vampirism.garlic_beacon: OP
+ftbutilities.claims.block.edit.vampirism.hunter_table2: OP
+ftbutilities.claims.block.edit.vampirism.hunter_table: OP
+ftbutilities.claims.block.edit.vampirism.med_chair: OP
+ftbutilities.claims.block.edit.vampirism.sunscreen_beacon: OP
+ftbutilities.claims.block.edit.vampirism.tent: OP
+ftbutilities.claims.block.edit.vampirism.tent_main: OP
+ftbutilities.claims.block.edit.vampirism.totem_base: OP
+ftbutilities.claims.block.edit.vampirism.totem_top: OP
+ftbutilities.claims.block.edit.vampirism.vampirism_flower: OP
+ftbutilities.claims.block.edit.vampirism.weapon_table: OP
 ftbutilities.claims.block.edit.waystones.waystone: OP
 ftbutilities.claims.block.edit.woot.anvil: OP
 ftbutilities.claims.block.edit.woot.cell: OP
@@ -6510,6 +6561,8 @@ ftbutilities.claims.block.interact.ae2stuff.grower: OP
 ftbutilities.claims.block.interact.ae2stuff.inscriber: OP
 ftbutilities.claims.block.interact.ae2stuff.wireless: OP
 ftbutilities.claims.block.interact.alternatingflux.connector: OP
+ftbutilities.claims.block.interact.apotheosis.hellshelf: OP
+ftbutilities.claims.block.interact.apotheosis.prismatic_altar: OP
 ftbutilities.claims.block.interact.appliedenergistics2.cable_bus: OP
 ftbutilities.claims.block.interact.appliedenergistics2.cell_workbench: OP
 ftbutilities.claims.block.interact.appliedenergistics2.charged_quartz_ore: OP
@@ -9525,6 +9578,20 @@ ftbutilities.claims.block.interact.ic2.te: OP
 ftbutilities.claims.block.interact.ic2.uu_matter: OP
 ftbutilities.claims.block.interact.ic2.wall: OP
 ftbutilities.claims.block.interact.ic2.weed_ex: OP
+ftbutilities.claims.block.interact.icbmclassic.batterybox: OP
+ftbutilities.claims.block.interact.icbmclassic.concrete: OP
+ftbutilities.claims.block.interact.icbmclassic.cruiselauncher: OP
+ftbutilities.claims.block.interact.icbmclassic.emptower: OP
+ftbutilities.claims.block.interact.icbmclassic.explosives: OP
+ftbutilities.claims.block.interact.icbmclassic.glassbutton: OP
+ftbutilities.claims.block.interact.icbmclassic.glasspressureplate: OP
+ftbutilities.claims.block.interact.icbmclassic.launcherbase: OP
+ftbutilities.claims.block.interact.icbmclassic.launcherframe: OP
+ftbutilities.claims.block.interact.icbmclassic.launcherscreen: OP
+ftbutilities.claims.block.interact.icbmclassic.multiblock: OP
+ftbutilities.claims.block.interact.icbmclassic.radarstation: OP
+ftbutilities.claims.block.interact.icbmclassic.reinforcedglass: OP
+ftbutilities.claims.block.interact.icbmclassic.spikes: OP
 ftbutilities.claims.block.interact.iceandfire.ash: OP
 ftbutilities.claims.block.interact.iceandfire.chared_cobblestone: OP
 ftbutilities.claims.block.interact.iceandfire.chared_dirt: OP
@@ -11961,6 +12028,41 @@ ftbutilities.claims.block.interact.totemic.wind_chime: OP
 ftbutilities.claims.block.interact.totemic.wooden_pillar: OP
 ftbutilities.claims.block.interact.totemic.wooden_pillar_base: OP
 ftbutilities.claims.block.interact.translocators.craftinggrid: OP
+ftbutilities.claims.block.interact.vampirism.alchemical_cauldron: OP
+ftbutilities.claims.block.interact.vampirism.alchemical_fire: OP
+ftbutilities.claims.block.interact.vampirism.altar_infusion: OP
+ftbutilities.claims.block.interact.vampirism.altar_inspiration: OP
+ftbutilities.claims.block.interact.vampirism.altar_pillar: OP
+ftbutilities.claims.block.interact.vampirism.altar_tip: OP
+ftbutilities.claims.block.interact.vampirism.block_blood_fluid: OP
+ftbutilities.claims.block.interact.vampirism.block_coffin: OP
+ftbutilities.claims.block.interact.vampirism.block_impure_blood_fluid: OP
+ftbutilities.claims.block.interact.vampirism.blood_container: OP
+ftbutilities.claims.block.interact.vampirism.blood_grinder: OP
+ftbutilities.claims.block.interact.vampirism.blood_pedestal: OP
+ftbutilities.claims.block.interact.vampirism.blood_potion_table: OP
+ftbutilities.claims.block.interact.vampirism.blood_sieve: OP
+ftbutilities.claims.block.interact.vampirism.castle_block: OP
+ftbutilities.claims.block.interact.vampirism.castle_slab: OP
+ftbutilities.claims.block.interact.vampirism.castle_slab_double: OP
+ftbutilities.claims.block.interact.vampirism.castle_stairs_dark: OP
+ftbutilities.claims.block.interact.vampirism.castle_stairs_dark_stone: OP
+ftbutilities.claims.block.interact.vampirism.castle_stairs_purple: OP
+ftbutilities.claims.block.interact.vampirism.church_altar: OP
+ftbutilities.claims.block.interact.vampirism.cursed_earth: OP
+ftbutilities.claims.block.interact.vampirism.fire_place: OP
+ftbutilities.claims.block.interact.vampirism.garlic: OP
+ftbutilities.claims.block.interact.vampirism.garlic_beacon: OP
+ftbutilities.claims.block.interact.vampirism.hunter_table2: OP
+ftbutilities.claims.block.interact.vampirism.hunter_table: OP
+ftbutilities.claims.block.interact.vampirism.med_chair: OP
+ftbutilities.claims.block.interact.vampirism.sunscreen_beacon: OP
+ftbutilities.claims.block.interact.vampirism.tent: OP
+ftbutilities.claims.block.interact.vampirism.tent_main: OP
+ftbutilities.claims.block.interact.vampirism.totem_base: OP
+ftbutilities.claims.block.interact.vampirism.totem_top: OP
+ftbutilities.claims.block.interact.vampirism.vampirism_flower: OP
+ftbutilities.claims.block.interact.vampirism.weapon_table: OP
 ftbutilities.claims.block.interact.waystones.waystone: OP
 ftbutilities.claims.block.interact.woot.anvil: OP
 ftbutilities.claims.block.interact.woot.cell: OP
@@ -12828,6 +12930,21 @@ ftbutilities.claims.item.akashictome.tome: ALL
 ftbutilities.claims.item.alternatingflux.connector: ALL
 ftbutilities.claims.item.alternatingflux.material: ALL
 ftbutilities.claims.item.alternatingflux.wirecoil: ALL
+ftbutilities.claims.item.apotheosis.armor_chest_book: ALL
+ftbutilities.claims.item.apotheosis.armor_feet_book: ALL
+ftbutilities.claims.item.apotheosis.armor_head_book: ALL
+ftbutilities.claims.item.apotheosis.armor_legs_book: ALL
+ftbutilities.claims.item.apotheosis.bow_book: ALL
+ftbutilities.claims.item.apotheosis.digger_book: ALL
+ftbutilities.claims.item.apotheosis.farmers_leash: ALL
+ftbutilities.claims.item.apotheosis.fishing_rod_book: ALL
+ftbutilities.claims.item.apotheosis.hellshelf: ALL
+ftbutilities.claims.item.apotheosis.lucky_foot: ALL
+ftbutilities.claims.item.apotheosis.null_book: ALL
+ftbutilities.claims.item.apotheosis.prismatic_altar: ALL
+ftbutilities.claims.item.apotheosis.prismatic_web: ALL
+ftbutilities.claims.item.apotheosis.scrap_tome: ALL
+ftbutilities.claims.item.apotheosis.weapon_book: ALL
 ftbutilities.claims.item.appliedenergistics2.biometric_card: ALL
 ftbutilities.claims.item.appliedenergistics2.cable_bus: ALL
 ftbutilities.claims.item.appliedenergistics2.cell_workbench: ALL
@@ -16689,6 +16806,7 @@ ftbutilities.claims.item.gravisuite.gravitool: ALL
 ftbutilities.claims.item.gravisuite.ultimatelappack: ALL
 ftbutilities.claims.item.gravisuite.vajra: ALL
 ftbutilities.claims.item.guideapi.bloodmagic-guide: ALL
+ftbutilities.claims.item.guideapi.vampirism-guide: ALL
 ftbutilities.claims.item.guideapi.woot-guide: ALL
 ftbutilities.claims.item.harvestcraft.agaveitem: ALL
 ftbutilities.claims.item.harvestcraft.agaveseeditem: ALL
@@ -18163,6 +18281,39 @@ ftbutilities.claims.item.ic2.weeding_trowel: ALL
 ftbutilities.claims.item.ic2.wind_meter: ALL
 ftbutilities.claims.item.ic2.wrench: ALL
 ftbutilities.claims.item.ic2.wrench_new: ALL
+ftbutilities.claims.item.icbmclassic.antidote: ALL
+ftbutilities.claims.item.icbmclassic.battery: ALL
+ftbutilities.claims.item.icbmclassic.batterybox: ALL
+ftbutilities.claims.item.icbmclassic.bombcart: ALL
+ftbutilities.claims.item.icbmclassic.circuit: ALL
+ftbutilities.claims.item.icbmclassic.clump: ALL
+ftbutilities.claims.item.icbmclassic.concrete: ALL
+ftbutilities.claims.item.icbmclassic.cruiselauncher: ALL
+ftbutilities.claims.item.icbmclassic.defuser: ALL
+ftbutilities.claims.item.icbmclassic.emptower: ALL
+ftbutilities.claims.item.icbmclassic.explosives: ALL
+ftbutilities.claims.item.icbmclassic.glassbutton: ALL
+ftbutilities.claims.item.icbmclassic.glasspressureplate: ALL
+ftbutilities.claims.item.icbmclassic.grenade: ALL
+ftbutilities.claims.item.icbmclassic.ingot: ALL
+ftbutilities.claims.item.icbmclassic.laserdetonator: ALL
+ftbutilities.claims.item.icbmclassic.launcherbase: ALL
+ftbutilities.claims.item.icbmclassic.launcherframe: ALL
+ftbutilities.claims.item.icbmclassic.launcherscreen: ALL
+ftbutilities.claims.item.icbmclassic.missile: ALL
+ftbutilities.claims.item.icbmclassic.plate: ALL
+ftbutilities.claims.item.icbmclassic.poisonpowder: ALL
+ftbutilities.claims.item.icbmclassic.radargun: ALL
+ftbutilities.claims.item.icbmclassic.radarstation: ALL
+ftbutilities.claims.item.icbmclassic.reinforcedglass: ALL
+ftbutilities.claims.item.icbmclassic.remotedetonator: ALL
+ftbutilities.claims.item.icbmclassic.rocketlauncher: ALL
+ftbutilities.claims.item.icbmclassic.saltpeter: ALL
+ftbutilities.claims.item.icbmclassic.signaldisrupter: ALL
+ftbutilities.claims.item.icbmclassic.spikes: ALL
+ftbutilities.claims.item.icbmclassic.sulfurdust: ALL
+ftbutilities.claims.item.icbmclassic.tracker: ALL
+ftbutilities.claims.item.icbmclassic.wire: ALL
 ftbutilities.claims.item.iceandfire.ambrosia: ALL
 ftbutilities.claims.item.iceandfire.amphithere_arrow: ALL
 ftbutilities.claims.item.iceandfire.amphithere_feather: ALL
@@ -22908,6 +23059,88 @@ ftbutilities.claims.item.translocators.translocator_part: ALL
 ftbutilities.claims.item.valkyrielib.guide: ALL
 ftbutilities.claims.item.valkyrielib.modifier_component: ALL
 ftbutilities.claims.item.valkyrielib.modifier_speed: ALL
+ftbutilities.claims.item.vampirism.alchemical_cauldron: ALL
+ftbutilities.claims.item.vampirism.altar_infusion: ALL
+ftbutilities.claims.item.vampirism.altar_inspiration: ALL
+ftbutilities.claims.item.vampirism.altar_pillar: ALL
+ftbutilities.claims.item.vampirism.altar_tip: ALL
+ftbutilities.claims.item.vampirism.armor_of_swiftness_chest: ALL
+ftbutilities.claims.item.vampirism.armor_of_swiftness_feet: ALL
+ftbutilities.claims.item.vampirism.armor_of_swiftness_head: ALL
+ftbutilities.claims.item.vampirism.armor_of_swiftness_legs: ALL
+ftbutilities.claims.item.vampirism.basic_crossbow: ALL
+ftbutilities.claims.item.vampirism.basic_double_crossbow: ALL
+ftbutilities.claims.item.vampirism.basic_tech_crossbow: ALL
+ftbutilities.claims.item.vampirism.block_blood_fluid: ALL
+ftbutilities.claims.item.vampirism.blood_bottle: ALL
+ftbutilities.claims.item.vampirism.blood_container: ALL
+ftbutilities.claims.item.vampirism.blood_grinder: ALL
+ftbutilities.claims.item.vampirism.blood_infused_enhanced_iron_ingot: ALL
+ftbutilities.claims.item.vampirism.blood_infused_iron_ingot: ALL
+ftbutilities.claims.item.vampirism.blood_pedestal: ALL
+ftbutilities.claims.item.vampirism.blood_potion: ALL
+ftbutilities.claims.item.vampirism.blood_potion_table: ALL
+ftbutilities.claims.item.vampirism.blood_sieve: ALL
+ftbutilities.claims.item.vampirism.castle_block: ALL
+ftbutilities.claims.item.vampirism.castle_slab: ALL
+ftbutilities.claims.item.vampirism.castle_stairs_dark: ALL
+ftbutilities.claims.item.vampirism.castle_stairs_dark_stone: ALL
+ftbutilities.claims.item.vampirism.castle_stairs_purple: ALL
+ftbutilities.claims.item.vampirism.church_altar: ALL
+ftbutilities.claims.item.vampirism.crossbow_arrow: ALL
+ftbutilities.claims.item.vampirism.cursed_earth: ALL
+ftbutilities.claims.item.vampirism.enhanced_crossbow: ALL
+ftbutilities.claims.item.vampirism.enhanced_double_crossbow: ALL
+ftbutilities.claims.item.vampirism.enhanced_tech_crossbow: ALL
+ftbutilities.claims.item.vampirism.fire_place: ALL
+ftbutilities.claims.item.vampirism.garlic_beacon: ALL
+ftbutilities.claims.item.vampirism.garlic_beacon_core: ALL
+ftbutilities.claims.item.vampirism.garlic_beacon_core_improved: ALL
+ftbutilities.claims.item.vampirism.garlic_bread: ALL
+ftbutilities.claims.item.vampirism.heart_seeker: ALL
+ftbutilities.claims.item.vampirism.heart_striker: ALL
+ftbutilities.claims.item.vampirism.holy_salt: ALL
+ftbutilities.claims.item.vampirism.holy_salt_water: ALL
+ftbutilities.claims.item.vampirism.holy_water_bottle: ALL
+ftbutilities.claims.item.vampirism.holy_water_splash_bottle: ALL
+ftbutilities.claims.item.vampirism.human_heart: ALL
+ftbutilities.claims.item.vampirism.hunter_axe: ALL
+ftbutilities.claims.item.vampirism.hunter_coat_chest: ALL
+ftbutilities.claims.item.vampirism.hunter_coat_feet: ALL
+ftbutilities.claims.item.vampirism.hunter_coat_head: ALL
+ftbutilities.claims.item.vampirism.hunter_coat_legs: ALL
+ftbutilities.claims.item.vampirism.hunter_hat0_head: ALL
+ftbutilities.claims.item.vampirism.hunter_hat1_head: ALL
+ftbutilities.claims.item.vampirism.hunter_intel: ALL
+ftbutilities.claims.item.vampirism.hunter_table2: ALL
+ftbutilities.claims.item.vampirism.hunter_table: ALL
+ftbutilities.claims.item.vampirism.injection: ALL
+ftbutilities.claims.item.vampirism.item_alchemical_fire: ALL
+ftbutilities.claims.item.vampirism.item_coffin: ALL
+ftbutilities.claims.item.vampirism.item_garlic: ALL
+ftbutilities.claims.item.vampirism.item_med_chair: ALL
+ftbutilities.claims.item.vampirism.item_tent: ALL
+ftbutilities.claims.item.vampirism.obsidian_armor_chest: ALL
+ftbutilities.claims.item.vampirism.obsidian_armor_feet: ALL
+ftbutilities.claims.item.vampirism.obsidian_armor_head: ALL
+ftbutilities.claims.item.vampirism.obsidian_armor_legs: ALL
+ftbutilities.claims.item.vampirism.pitchfork: ALL
+ftbutilities.claims.item.vampirism.pure_blood: ALL
+ftbutilities.claims.item.vampirism.pure_salt: ALL
+ftbutilities.claims.item.vampirism.purified_garlic: ALL
+ftbutilities.claims.item.vampirism.soul_orb_vampire: ALL
+ftbutilities.claims.item.vampirism.stake: ALL
+ftbutilities.claims.item.vampirism.sunscreen_beacon: ALL
+ftbutilities.claims.item.vampirism.tech_crossbow_ammo_package: ALL
+ftbutilities.claims.item.vampirism.totem_base: ALL
+ftbutilities.claims.item.vampirism.totem_top: ALL
+ftbutilities.claims.item.vampirism.vampire_blood_bottle: ALL
+ftbutilities.claims.item.vampirism.vampire_book: ALL
+ftbutilities.claims.item.vampirism.vampire_cloak: ALL
+ftbutilities.claims.item.vampirism.vampire_fang: ALL
+ftbutilities.claims.item.vampirism.vampirism_flower: ALL
+ftbutilities.claims.item.vampirism.weak_human_heart: ALL
+ftbutilities.claims.item.vampirism.weapon_table: ALL
 ftbutilities.claims.item.waystones.bound_scroll: ALL
 ftbutilities.claims.item.waystones.return_scroll: ALL
 ftbutilities.claims.item.waystones.warp_scroll: ALL
@@ -23086,12 +23319,32 @@ ftbutilities.other_player.homes.list: OP
 ftbutilities.other_player.homes.teleport: OP
 ftbutilities.tpa.cross_dim: ALL
 pregen-chunkview: OP
+vampirism.action.vampirism.awareness_hunter: ALL
+vampirism.action.vampirism.bat: ALL
+vampirism.action.vampirism.dark_blood_projectile: ALL
+vampirism.action.vampirism.disguise_hunter: ALL
+vampirism.action.vampirism.disguise_vampire: ALL
+vampirism.action.vampirism.freeze: ALL
+vampirism.action.vampirism.half_invulnerable: ALL
+vampirism.action.vampirism.regen: ALL
+vampirism.action.vampirism.summon_bat: ALL
+vampirism.action.vampirism.sunscreen: ALL
+vampirism.action.vampirism.teleport: ALL
+vampirism.action.vampirism.vampire_invisibility: ALL
+vampirism.action.vampirism.vampire_rage: ALL
+vampirism.bite.attack.player: ALL
+vampirism.bite.attack: ALL
+vampirism.bite.feed.player: ALL
+vampirism.bite.feed: ALL
+vampirism.check: ALL
+vampirism.infect.player: ALL
 
 Available command nodes:
 
 command.abyssalcraft.acunlockallknowledge
 command.advancedrocketry.advancedrocketry
 command.advancement
+command.apotheosis.loot
 command.appliedenergistics2.ae2
 command.aroma1997core.aroma1997
 command.aroma1997core.sleep
@@ -23271,6 +23524,8 @@ command.gendustry.givetemplate
 command.give
 command.help
 command.ic2.ic2
+command.icbmclassic.icbm
+command.icbmclassic.icbmc
 command.immersiveengineering.ie.clearshaders
 command.immersiveengineering.ie.help.clearshaders
 command.immersiveengineering.ie.help.mineral
@@ -23378,6 +23633,76 @@ command.topaddons.tophelmet
 command.tp
 command.trigger
 command.valkyrielib.removeowner
+command.vampirism.vampirism-test.biome
+command.vampirism.vampirism-test.debuggen
+command.vampirism.vampirism-test.emptybloodbar
+command.vampirism.vampirism-test.entity
+command.vampirism.vampirism-test.garlic_profiler
+command.vampirism.vampirism-test.garliccheck
+command.vampirism.vampirism-test.givetesttargetmap
+command.vampirism.vampirism-test.halloween
+command.vampirism.vampirism-test.heal
+command.vampirism.vampirism-test.help.biome
+command.vampirism.vampirism-test.help.debuggen
+command.vampirism.vampirism-test.help.emptybloodbar
+command.vampirism.vampirism-test.help.entity
+command.vampirism.vampirism-test.help.garlic_profiler
+command.vampirism.vampirism-test.help.garliccheck
+command.vampirism.vampirism-test.help.givetesttargetmap
+command.vampirism.vampirism-test.help.halloween
+command.vampirism.vampirism-test.help.heal
+command.vampirism.vampirism-test.help.info-entities
+command.vampirism.vampirism-test.help.info-entity
+command.vampirism.vampirism-test.help.makevillageragressive
+command.vampirism.vampirism-test.help.marker
+command.vampirism.vampirism-test.help.place
+command.vampirism.vampirism-test.help.resetactions
+command.vampirism.vampirism-test.help.runtests
+command.vampirism.vampirism-test.help.setswordcharged
+command.vampirism.vampirism-test.help.setswordtrained
+command.vampirism.vampirism-test.help.skill
+command.vampirism.vampirism-test.help.spawntestanimal
+command.vampirism.vampirism-test.help.tent
+command.vampirism.vampirism-test.help.vampirebook
+command.vampirism.vampirism-test.info-entities
+command.vampirism.vampirism-test.info-entity
+command.vampirism.vampirism-test.makevillageragressive
+command.vampirism.vampirism-test.marker
+command.vampirism.vampirism-test.place
+command.vampirism.vampirism-test.resetactions
+command.vampirism.vampirism-test.runtests
+command.vampirism.vampirism-test.setswordcharged
+command.vampirism.vampirism-test.setswordtrained
+command.vampirism.vampirism-test.skill
+command.vampirism.vampirism-test.spawntestanimal
+command.vampirism.vampirism-test.tent
+command.vampirism.vampirism-test.vampirebook
+command.vampirism.vampirism.bind-action
+command.vampirism.vampirism.changelog
+command.vampirism.vampirism.checkforvampirebiome
+command.vampirism.vampirism.currentdimension
+command.vampirism.vampirism.debug
+command.vampirism.vampirism.eye
+command.vampirism.vampirism.fang
+command.vampirism.vampirism.glowingeye
+command.vampirism.vampirism.help.bind-action
+command.vampirism.vampirism.help.changelog
+command.vampirism.vampirism.help.checkforvampirebiome
+command.vampirism.vampirism.help.currentdimension
+command.vampirism.vampirism.help.debug
+command.vampirism.vampirism.help.eye
+command.vampirism.vampirism.help.fang
+command.vampirism.vampirism.help.glowingeye
+command.vampirism.vampirism.help.level
+command.vampirism.vampirism.help.levelup
+command.vampirism.vampirism.help.resetbalance
+command.vampirism.vampirism.help.version
+command.vampirism.vampirism.level
+command.vampirism.vampirism.levelup
+command.vampirism.vampirism.resetbalance
+command.vampirism.vampirism.version
+command.vampirism_integrations.vampirism-integrations.changelog
+command.vampirism_integrations.vampirism-integrations.loaded
 command.weather
 command.woot.woot.dev.debug
 command.woot.woot.dev.power
