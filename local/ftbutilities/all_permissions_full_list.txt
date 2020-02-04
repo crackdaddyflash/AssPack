@@ -1,4 +1,4 @@
-23337 nodes in total
+23369 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1214,6 +1214,7 @@ ftbutilities.claims.block.edit.bloodmagic.ritual_stone: OP
 ftbutilities.claims.block.edit.bloodmagic.soul_forge: OP
 ftbutilities.claims.block.edit.bloodmagic.spectral: OP
 ftbutilities.claims.block.edit.bloodmagic.teleposer: OP
+ftbutilities.claims.block.edit.bonsaitrees.bonsaipot: OP
 ftbutilities.claims.block.edit.botania.alchemycatalyst: OP
 ftbutilities.claims.block.edit.botania.alfheimportal: OP
 ftbutilities.claims.block.edit.botania.altar: OP
@@ -1521,6 +1522,11 @@ ftbutilities.claims.block.edit.buildcraftsilicon.integration_table: OP
 ftbutilities.claims.block.edit.buildcraftsilicon.laser: OP
 ftbutilities.claims.block.edit.buildcrafttransport.filtered_buffer: OP
 ftbutilities.claims.block.edit.buildcrafttransport.pipe_holder: OP
+ftbutilities.claims.block.edit.buildinggadgets.constructionblock: OP
+ftbutilities.claims.block.edit.buildinggadgets.constructionblock_dense: OP
+ftbutilities.claims.block.edit.buildinggadgets.constructionblockpowder: OP
+ftbutilities.claims.block.edit.buildinggadgets.effectblock: OP
+ftbutilities.claims.block.edit.buildinggadgets.templatemanager: OP
 ftbutilities.claims.block.edit.careerbees.alveary_frame: OP
 ftbutilities.claims.block.edit.careerbees.flower_pedastal: OP
 ftbutilities.claims.block.edit.chisel.andesite1: OP
@@ -7158,6 +7164,7 @@ ftbutilities.claims.block.interact.bloodmagic.ritual_stone: OP
 ftbutilities.claims.block.interact.bloodmagic.soul_forge: OP
 ftbutilities.claims.block.interact.bloodmagic.spectral: OP
 ftbutilities.claims.block.interact.bloodmagic.teleposer: OP
+ftbutilities.claims.block.interact.bonsaitrees.bonsaipot: OP
 ftbutilities.claims.block.interact.botania.alchemycatalyst: OP
 ftbutilities.claims.block.interact.botania.alfheimportal: OP
 ftbutilities.claims.block.interact.botania.altar: OP
@@ -7465,6 +7472,11 @@ ftbutilities.claims.block.interact.buildcraftsilicon.integration_table: OP
 ftbutilities.claims.block.interact.buildcraftsilicon.laser: OP
 ftbutilities.claims.block.interact.buildcrafttransport.filtered_buffer: OP
 ftbutilities.claims.block.interact.buildcrafttransport.pipe_holder: OP
+ftbutilities.claims.block.interact.buildinggadgets.constructionblock: OP
+ftbutilities.claims.block.interact.buildinggadgets.constructionblock_dense: OP
+ftbutilities.claims.block.interact.buildinggadgets.constructionblockpowder: OP
+ftbutilities.claims.block.interact.buildinggadgets.effectblock: OP
+ftbutilities.claims.block.interact.buildinggadgets.templatemanager: OP
 ftbutilities.claims.block.interact.careerbees.alveary_frame: OP
 ftbutilities.claims.block.interact.careerbees.flower_pedastal: OP
 ftbutilities.claims.block.interact.chisel.andesite1: OP
@@ -13864,6 +13876,7 @@ ftbutilities.claims.item.bloodmagic.teleposer: ALL
 ftbutilities.claims.item.bloodmagic.teleposition_focus: ALL
 ftbutilities.claims.item.bloodmagic.upgrade_tome: ALL
 ftbutilities.claims.item.bloodmagic.upgrade_trainer: ALL
+ftbutilities.claims.item.bonsaitrees.bonsaipot: ALL
 ftbutilities.claims.item.botania.alchemycatalyst: ALL
 ftbutilities.claims.item.botania.alfheimportal: ALL
 ftbutilities.claims.item.botania.altar: ALL
@@ -14320,6 +14333,21 @@ ftbutilities.claims.item.buildcrafttransport.plug_blocker: ALL
 ftbutilities.claims.item.buildcrafttransport.plug_power_adaptor: ALL
 ftbutilities.claims.item.buildcrafttransport.waterproof: ALL
 ftbutilities.claims.item.buildcrafttransport.wire: ALL
+ftbutilities.claims.item.buildinggadgets.buildingtool: ALL
+ftbutilities.claims.item.buildinggadgets.construction_chunk_dense: ALL
+ftbutilities.claims.item.buildinggadgets.constructionblock: ALL
+ftbutilities.claims.item.buildinggadgets.constructionblock_dense: ALL
+ftbutilities.claims.item.buildinggadgets.constructionblockpowder: ALL
+ftbutilities.claims.item.buildinggadgets.constructionpaste: ALL
+ftbutilities.claims.item.buildinggadgets.constructionpastecontainer: ALL
+ftbutilities.claims.item.buildinggadgets.constructionpastecontainercreative: ALL
+ftbutilities.claims.item.buildinggadgets.constructionpastecontainert2: ALL
+ftbutilities.claims.item.buildinggadgets.constructionpastecontainert3: ALL
+ftbutilities.claims.item.buildinggadgets.copypastetool: ALL
+ftbutilities.claims.item.buildinggadgets.destructiontool: ALL
+ftbutilities.claims.item.buildinggadgets.exchangertool: ALL
+ftbutilities.claims.item.buildinggadgets.template: ALL
+ftbutilities.claims.item.buildinggadgets.templatemanager: ALL
 ftbutilities.claims.item.careerbees.alveary_frame: ALL
 ftbutilities.claims.item.careerbees.bee.armor.chest: ALL
 ftbutilities.claims.item.careerbees.bee.armor.feet: ALL
@@ -14824,6 +14852,10 @@ ftbutilities.claims.item.draconicevolution.wyvern_legs: ALL
 ftbutilities.claims.item.draconicevolution.wyvern_pick: ALL
 ftbutilities.claims.item.draconicevolution.wyvern_shovel: ALL
 ftbutilities.claims.item.draconicevolution.wyvern_sword: ALL
+ftbutilities.claims.item.effortlessbuilding.randomizer_bag: ALL
+ftbutilities.claims.item.effortlessbuilding.reach_upgrade1: ALL
+ftbutilities.claims.item.effortlessbuilding.reach_upgrade2: ALL
+ftbutilities.claims.item.effortlessbuilding.reach_upgrade3: ALL
 ftbutilities.claims.item.enderio.block_advanced_power_monitor: ALL
 ftbutilities.claims.item.enderio.block_alloy: ALL
 ftbutilities.claims.item.enderio.block_alloy_endergy: ALL
@@ -23382,6 +23414,7 @@ command.bloodmagic.bloodmagic.teleposer.help.removeall
 command.bloodmagic.bloodmagic.teleposer.help.rmrf
 command.bloodmagic.bloodmagic.teleposer.help.teleport
 command.bloodmagic.bloodmagic.teleposer.help.teleportfocus
+command.bonsaitrees.bonsaitrees
 command.botania.botania-open
 command.botania.botania-share
 command.brandonscore.bcore_ticktime
@@ -23390,6 +23423,8 @@ command.brandonscore.tpx
 command.buildcraftlib.buildcraft.changelog
 command.buildcraftlib.buildcraft.reload
 command.buildcraftlib.buildcraft.version
+command.buildinggadgets.deleteblockmaps
+command.buildinggadgets.findblockmaps
 command.cctweaked.computercraft
 command.chunkpregenerator.pregen
 command.clear
@@ -23420,6 +23455,7 @@ command.difficulty
 command.draconicevolution.de_reload_custom_fusion
 command.draconicevolution.de_upgrade
 command.effect
+command.effortlessbuilding.reach
 command.enchant
 command.endercore.scoreboardinfo
 command.enderstorage.enderstorage.clear
