@@ -45,3 +45,5 @@
 /server.properties
 /version.json
 /whitelist.json
+
+/.mixin.out

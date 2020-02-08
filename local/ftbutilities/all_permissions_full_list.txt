@@ -1,4 +1,4 @@
-23764 nodes in total
+23356 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -6,7 +6,6 @@ admin_panel.ftbutilities.crash_reports.view: OP
 admin_panel.ftbutilities.edit_world.gamerules: OP
 block.tap: ALL
 block.wrench: ALL
-command.thutcoresettings.edit: OP
 enderio.attack.block_killer_joe: ALL
 enderio.attract.tile.block_attractor_obelisk: ALL
 enderio.creative_spawner.edit: OP
@@ -517,7 +516,6 @@ ftbutilities.claims.block.edit.actuallyadditions.block_treasure_chest: OP
 ftbutilities.claims.block.edit.actuallyadditions.block_wild: OP
 ftbutilities.claims.block.edit.actuallyadditions.block_xp_solidifier: OP
 ftbutilities.claims.block.edit.advanced_machines.machines: OP
-ftbutilities.claims.block.edit.advanced_solar_panels.machines: OP
 ftbutilities.claims.block.edit.advancedrocketry.advrocketmotor: OP
 ftbutilities.claims.block.edit.advancedrocketry.airlock_door: OP
 ftbutilities.claims.block.edit.advancedrocketry.alienleaves: OP
@@ -1775,7 +1773,6 @@ ftbutilities.claims.block.edit.chiselsandbits.chiseled_sand: OP
 ftbutilities.claims.block.edit.chiselsandbits.chiseled_snow: OP
 ftbutilities.claims.block.edit.chiselsandbits.chiseled_wood: OP
 ftbutilities.claims.block.edit.clipboard.clipboard: OP
-ftbutilities.claims.block.edit.compactsolars.compact_solar_block: OP
 ftbutilities.claims.block.edit.computercraft.advanced_modem: OP
 ftbutilities.claims.block.edit.computercraft.cable: OP
 ftbutilities.claims.block.edit.computercraft.command_computer: OP
@@ -2119,7 +2116,6 @@ ftbutilities.claims.block.edit.engineersdoors.fencegate_steel: OP
 ftbutilities.claims.block.edit.engineersdoors.fencegate_treated: OP
 ftbutilities.claims.block.edit.engineersdoors.trapdoor_steel: OP
 ftbutilities.claims.block.edit.engineersdoors.trapdoor_treated: OP
-ftbutilities.claims.block.edit.engineersworkshop.blocktable: OP
 ftbutilities.claims.block.edit.environmentaltech.aethium: OP
 ftbutilities.claims.block.edit.environmentaltech.aethium_brick_slab: OP
 ftbutilities.claims.block.edit.environmentaltech.aethium_brick_slab_double: OP
@@ -3726,9 +3722,7 @@ ftbutilities.claims.block.edit.iceandfire.silverpile: OP
 ftbutilities.claims.block.edit.immersivecables.coil_block: OP
 ftbutilities.claims.block.edit.immersivecables.connector_quartz: OP
 ftbutilities.claims.block.edit.immersivecables.relay_fluix: OP
-ftbutilities.claims.block.edit.immersivecables.relay_refined: OP
 ftbutilities.claims.block.edit.immersivecables.transformer_fluix: OP
-ftbutilities.claims.block.edit.immersivecables.transformer_refined: OP
 ftbutilities.claims.block.edit.immersiveengineering.aluminum_scaffolding_stairs0: OP
 ftbutilities.claims.block.edit.immersiveengineering.aluminum_scaffolding_stairs1: OP
 ftbutilities.claims.block.edit.immersiveengineering.aluminum_scaffolding_stairs2: OP
@@ -3809,10 +3803,6 @@ ftbutilities.claims.block.edit.immersiveposts.silverpost: OP
 ftbutilities.claims.block.edit.immersiveposts.steelpost: OP
 ftbutilities.claims.block.edit.immersiveposts.uraniumpost: OP
 ftbutilities.claims.block.edit.immersiveposts.woodpost: OP
-ftbutilities.claims.block.edit.immersiverailroading.block_rail: OP
-ftbutilities.claims.block.edit.immersiverailroading.block_rail_gag: OP
-ftbutilities.claims.block.edit.immersiverailroading.block_rail_preview: OP
-ftbutilities.claims.block.edit.immersiverailroading.multiblock: OP
 ftbutilities.claims.block.edit.immersivetech.connectors: OP
 ftbutilities.claims.block.edit.immersivetech.fluiddistwater: OP
 ftbutilities.claims.block.edit.immersivetech.fluidsteam: OP
@@ -4046,19 +4036,6 @@ ftbutilities.claims.block.edit.libvulpes.motor: OP
 ftbutilities.claims.block.edit.libvulpes.ore0: OP
 ftbutilities.claims.block.edit.libvulpes.placeholder: OP
 ftbutilities.claims.block.edit.libvulpes.structuremachine: OP
-ftbutilities.claims.block.edit.logisticspipes.crafting_table: OP
-ftbutilities.claims.block.edit.logisticspipes.crafting_table_fuzzy: OP
-ftbutilities.claims.block.edit.logisticspipes.frame: OP
-ftbutilities.claims.block.edit.logisticspipes.pipe: OP
-ftbutilities.claims.block.edit.logisticspipes.power_junction: OP
-ftbutilities.claims.block.edit.logisticspipes.power_provider_eu: OP
-ftbutilities.claims.block.edit.logisticspipes.power_provider_mj: OP
-ftbutilities.claims.block.edit.logisticspipes.power_provider_rf: OP
-ftbutilities.claims.block.edit.logisticspipes.program_compiler: OP
-ftbutilities.claims.block.edit.logisticspipes.security_station: OP
-ftbutilities.claims.block.edit.logisticspipes.solid_block: OP
-ftbutilities.claims.block.edit.logisticspipes.statistics_table: OP
-ftbutilities.claims.block.edit.logisticspipes.sub_multiblock: OP
 ftbutilities.claims.block.edit.magicbees.effectjar: OP
 ftbutilities.claims.block.edit.magicbees.enchanted_earth: OP
 ftbutilities.claims.block.edit.magicbees.hiveblock: OP
@@ -5369,37 +5346,7 @@ ftbutilities.claims.block.edit.railcraft.worldlogic: OP
 ftbutilities.claims.block.edit.railcraft.worldspike: OP
 ftbutilities.claims.block.edit.railcraft.worldspike_point: OP
 ftbutilities.claims.block.edit.rangedpumps.pump: OP
-ftbutilities.claims.block.edit.rebornstorage.multicrafter: OP
 ftbutilities.claims.block.edit.redstonearsenal.storage: OP
-ftbutilities.claims.block.edit.refinedstorage.cable: OP
-ftbutilities.claims.block.edit.refinedstorage.constructor: OP
-ftbutilities.claims.block.edit.refinedstorage.controller: OP
-ftbutilities.claims.block.edit.refinedstorage.crafter: OP
-ftbutilities.claims.block.edit.refinedstorage.crafter_manager: OP
-ftbutilities.claims.block.edit.refinedstorage.crafting_monitor: OP
-ftbutilities.claims.block.edit.refinedstorage.destructor: OP
-ftbutilities.claims.block.edit.refinedstorage.detector: OP
-ftbutilities.claims.block.edit.refinedstorage.disk_drive: OP
-ftbutilities.claims.block.edit.refinedstorage.disk_manipulator: OP
-ftbutilities.claims.block.edit.refinedstorage.exporter: OP
-ftbutilities.claims.block.edit.refinedstorage.external_storage: OP
-ftbutilities.claims.block.edit.refinedstorage.fluid_interface: OP
-ftbutilities.claims.block.edit.refinedstorage.fluid_storage: OP
-ftbutilities.claims.block.edit.refinedstorage.grid: OP
-ftbutilities.claims.block.edit.refinedstorage.importer: OP
-ftbutilities.claims.block.edit.refinedstorage.interface: OP
-ftbutilities.claims.block.edit.refinedstorage.machine_casing: OP
-ftbutilities.claims.block.edit.refinedstorage.network_receiver: OP
-ftbutilities.claims.block.edit.refinedstorage.network_transmitter: OP
-ftbutilities.claims.block.edit.refinedstorage.portable_grid: OP
-ftbutilities.claims.block.edit.refinedstorage.quartz_enriched_iron_block: OP
-ftbutilities.claims.block.edit.refinedstorage.reader: OP
-ftbutilities.claims.block.edit.refinedstorage.relay: OP
-ftbutilities.claims.block.edit.refinedstorage.security_manager: OP
-ftbutilities.claims.block.edit.refinedstorage.storage: OP
-ftbutilities.claims.block.edit.refinedstorage.storage_monitor: OP
-ftbutilities.claims.block.edit.refinedstorage.wireless_transmitter: OP
-ftbutilities.claims.block.edit.refinedstorage.writer: OP
 ftbutilities.claims.block.edit.rftools.analog_block: OP
 ftbutilities.claims.block.edit.rftools.block_protector: OP
 ftbutilities.claims.block.edit.rftools.booster: OP
@@ -6184,7 +6131,6 @@ ftbutilities.claims.block.edit.thermalfoundation.rockwool: OP
 ftbutilities.claims.block.edit.thermalfoundation.storage: OP
 ftbutilities.claims.block.edit.thermalfoundation.storage_alloy: OP
 ftbutilities.claims.block.edit.thermalfoundation.storage_resource: OP
-ftbutilities.claims.block.edit.thuttech.lift: OP
 ftbutilities.claims.block.edit.torchmaster.dread_lamp: OP
 ftbutilities.claims.block.edit.torchmaster.feral_flare_lantern: OP
 ftbutilities.claims.block.edit.torchmaster.invisible_light: OP
@@ -6279,42 +6225,6 @@ ftbutilities.claims.block.edit.xreliquary.interdiction_torch: OP
 ftbutilities.claims.block.edit.xreliquary.pedestal: OP
 ftbutilities.claims.block.edit.xreliquary.pedestal_passive: OP
 ftbutilities.claims.block.edit.xreliquary.wraith_node: OP
-ftbutilities.claims.block.edit.xtones.agon: OP
-ftbutilities.claims.block.edit.xtones.azur: OP
-ftbutilities.claims.block.edit.xtones.base: OP
-ftbutilities.claims.block.edit.xtones.bitt: OP
-ftbutilities.claims.block.edit.xtones.cray: OP
-ftbutilities.claims.block.edit.xtones.fort: OP
-ftbutilities.claims.block.edit.xtones.glaxx: OP
-ftbutilities.claims.block.edit.xtones.iszm: OP
-ftbutilities.claims.block.edit.xtones.jelt: OP
-ftbutilities.claims.block.edit.xtones.korp: OP
-ftbutilities.claims.block.edit.xtones.kryp: OP
-ftbutilities.claims.block.edit.xtones.lair: OP
-ftbutilities.claims.block.edit.xtones.lamp_flat: OP
-ftbutilities.claims.block.edit.xtones.lave: OP
-ftbutilities.claims.block.edit.xtones.mint: OP
-ftbutilities.claims.block.edit.xtones.myst: OP
-ftbutilities.claims.block.edit.xtones.reds: OP
-ftbutilities.claims.block.edit.xtones.reed: OP
-ftbutilities.claims.block.edit.xtones.roen: OP
-ftbutilities.claims.block.edit.xtones.sols: OP
-ftbutilities.claims.block.edit.xtones.sync: OP
-ftbutilities.claims.block.edit.xtones.tank: OP
-ftbutilities.claims.block.edit.xtones.vect: OP
-ftbutilities.claims.block.edit.xtones.vena: OP
-ftbutilities.claims.block.edit.xtones.zane: OP
-ftbutilities.claims.block.edit.xtones.zech: OP
-ftbutilities.claims.block.edit.xtones.zest: OP
-ftbutilities.claims.block.edit.xtones.zeta: OP
-ftbutilities.claims.block.edit.xtones.zion: OP
-ftbutilities.claims.block.edit.xtones.zkul: OP
-ftbutilities.claims.block.edit.xtones.zoea: OP
-ftbutilities.claims.block.edit.xtones.zome: OP
-ftbutilities.claims.block.edit.xtones.zone: OP
-ftbutilities.claims.block.edit.xtones.zorg: OP
-ftbutilities.claims.block.edit.xtones.ztyl: OP
-ftbutilities.claims.block.edit.xtones.zyth: OP
 ftbutilities.claims.block.edit.yabba.antibarrel: OP
 ftbutilities.claims.block.edit.yabba.decorative_block: OP
 ftbutilities.claims.block.edit.yabba.item_barrel: OP
@@ -6587,7 +6497,6 @@ ftbutilities.claims.block.interact.actuallyadditions.block_treasure_chest: OP
 ftbutilities.claims.block.interact.actuallyadditions.block_wild: OP
 ftbutilities.claims.block.interact.actuallyadditions.block_xp_solidifier: OP
 ftbutilities.claims.block.interact.advanced_machines.machines: OP
-ftbutilities.claims.block.interact.advanced_solar_panels.machines: OP
 ftbutilities.claims.block.interact.advancedrocketry.advrocketmotor: OP
 ftbutilities.claims.block.interact.advancedrocketry.airlock_door: ALL
 ftbutilities.claims.block.interact.advancedrocketry.alienleaves: OP
@@ -7845,7 +7754,6 @@ ftbutilities.claims.block.interact.chiselsandbits.chiseled_sand: OP
 ftbutilities.claims.block.interact.chiselsandbits.chiseled_snow: OP
 ftbutilities.claims.block.interact.chiselsandbits.chiseled_wood: OP
 ftbutilities.claims.block.interact.clipboard.clipboard: OP
-ftbutilities.claims.block.interact.compactsolars.compact_solar_block: OP
 ftbutilities.claims.block.interact.computercraft.advanced_modem: OP
 ftbutilities.claims.block.interact.computercraft.cable: OP
 ftbutilities.claims.block.interact.computercraft.command_computer: OP
@@ -8189,7 +8097,6 @@ ftbutilities.claims.block.interact.engineersdoors.fencegate_steel: OP
 ftbutilities.claims.block.interact.engineersdoors.fencegate_treated: OP
 ftbutilities.claims.block.interact.engineersdoors.trapdoor_steel: OP
 ftbutilities.claims.block.interact.engineersdoors.trapdoor_treated: OP
-ftbutilities.claims.block.interact.engineersworkshop.blocktable: OP
 ftbutilities.claims.block.interact.environmentaltech.aethium: OP
 ftbutilities.claims.block.interact.environmentaltech.aethium_brick_slab: OP
 ftbutilities.claims.block.interact.environmentaltech.aethium_brick_slab_double: OP
@@ -9796,9 +9703,7 @@ ftbutilities.claims.block.interact.iceandfire.silverpile: OP
 ftbutilities.claims.block.interact.immersivecables.coil_block: OP
 ftbutilities.claims.block.interact.immersivecables.connector_quartz: OP
 ftbutilities.claims.block.interact.immersivecables.relay_fluix: OP
-ftbutilities.claims.block.interact.immersivecables.relay_refined: OP
 ftbutilities.claims.block.interact.immersivecables.transformer_fluix: OP
-ftbutilities.claims.block.interact.immersivecables.transformer_refined: OP
 ftbutilities.claims.block.interact.immersiveengineering.aluminum_scaffolding_stairs0: OP
 ftbutilities.claims.block.interact.immersiveengineering.aluminum_scaffolding_stairs1: OP
 ftbutilities.claims.block.interact.immersiveengineering.aluminum_scaffolding_stairs2: OP
@@ -9879,10 +9784,6 @@ ftbutilities.claims.block.interact.immersiveposts.silverpost: OP
 ftbutilities.claims.block.interact.immersiveposts.steelpost: OP
 ftbutilities.claims.block.interact.immersiveposts.uraniumpost: OP
 ftbutilities.claims.block.interact.immersiveposts.woodpost: OP
-ftbutilities.claims.block.interact.immersiverailroading.block_rail: OP
-ftbutilities.claims.block.interact.immersiverailroading.block_rail_gag: OP
-ftbutilities.claims.block.interact.immersiverailroading.block_rail_preview: OP
-ftbutilities.claims.block.interact.immersiverailroading.multiblock: OP
 ftbutilities.claims.block.interact.immersivetech.connectors: OP
 ftbutilities.claims.block.interact.immersivetech.fluiddistwater: OP
 ftbutilities.claims.block.interact.immersivetech.fluidsteam: OP
@@ -10116,19 +10017,6 @@ ftbutilities.claims.block.interact.libvulpes.motor: OP
 ftbutilities.claims.block.interact.libvulpes.ore0: OP
 ftbutilities.claims.block.interact.libvulpes.placeholder: OP
 ftbutilities.claims.block.interact.libvulpes.structuremachine: OP
-ftbutilities.claims.block.interact.logisticspipes.crafting_table: OP
-ftbutilities.claims.block.interact.logisticspipes.crafting_table_fuzzy: OP
-ftbutilities.claims.block.interact.logisticspipes.frame: OP
-ftbutilities.claims.block.interact.logisticspipes.pipe: OP
-ftbutilities.claims.block.interact.logisticspipes.power_junction: OP
-ftbutilities.claims.block.interact.logisticspipes.power_provider_eu: OP
-ftbutilities.claims.block.interact.logisticspipes.power_provider_mj: OP
-ftbutilities.claims.block.interact.logisticspipes.power_provider_rf: OP
-ftbutilities.claims.block.interact.logisticspipes.program_compiler: OP
-ftbutilities.claims.block.interact.logisticspipes.security_station: OP
-ftbutilities.claims.block.interact.logisticspipes.solid_block: OP
-ftbutilities.claims.block.interact.logisticspipes.statistics_table: OP
-ftbutilities.claims.block.interact.logisticspipes.sub_multiblock: OP
 ftbutilities.claims.block.interact.magicbees.effectjar: OP
 ftbutilities.claims.block.interact.magicbees.enchanted_earth: OP
 ftbutilities.claims.block.interact.magicbees.hiveblock: OP
@@ -11439,37 +11327,7 @@ ftbutilities.claims.block.interact.railcraft.worldlogic: OP
 ftbutilities.claims.block.interact.railcraft.worldspike: OP
 ftbutilities.claims.block.interact.railcraft.worldspike_point: OP
 ftbutilities.claims.block.interact.rangedpumps.pump: OP
-ftbutilities.claims.block.interact.rebornstorage.multicrafter: OP
 ftbutilities.claims.block.interact.redstonearsenal.storage: OP
-ftbutilities.claims.block.interact.refinedstorage.cable: OP
-ftbutilities.claims.block.interact.refinedstorage.constructor: OP
-ftbutilities.claims.block.interact.refinedstorage.controller: OP
-ftbutilities.claims.block.interact.refinedstorage.crafter: OP
-ftbutilities.claims.block.interact.refinedstorage.crafter_manager: OP
-ftbutilities.claims.block.interact.refinedstorage.crafting_monitor: OP
-ftbutilities.claims.block.interact.refinedstorage.destructor: OP
-ftbutilities.claims.block.interact.refinedstorage.detector: OP
-ftbutilities.claims.block.interact.refinedstorage.disk_drive: OP
-ftbutilities.claims.block.interact.refinedstorage.disk_manipulator: OP
-ftbutilities.claims.block.interact.refinedstorage.exporter: OP
-ftbutilities.claims.block.interact.refinedstorage.external_storage: OP
-ftbutilities.claims.block.interact.refinedstorage.fluid_interface: OP
-ftbutilities.claims.block.interact.refinedstorage.fluid_storage: OP
-ftbutilities.claims.block.interact.refinedstorage.grid: OP
-ftbutilities.claims.block.interact.refinedstorage.importer: OP
-ftbutilities.claims.block.interact.refinedstorage.interface: OP
-ftbutilities.claims.block.interact.refinedstorage.machine_casing: OP
-ftbutilities.claims.block.interact.refinedstorage.network_receiver: OP
-ftbutilities.claims.block.interact.refinedstorage.network_transmitter: OP
-ftbutilities.claims.block.interact.refinedstorage.portable_grid: OP
-ftbutilities.claims.block.interact.refinedstorage.quartz_enriched_iron_block: OP
-ftbutilities.claims.block.interact.refinedstorage.reader: OP
-ftbutilities.claims.block.interact.refinedstorage.relay: OP
-ftbutilities.claims.block.interact.refinedstorage.security_manager: OP
-ftbutilities.claims.block.interact.refinedstorage.storage: OP
-ftbutilities.claims.block.interact.refinedstorage.storage_monitor: OP
-ftbutilities.claims.block.interact.refinedstorage.wireless_transmitter: OP
-ftbutilities.claims.block.interact.refinedstorage.writer: OP
 ftbutilities.claims.block.interact.rftools.analog_block: OP
 ftbutilities.claims.block.interact.rftools.block_protector: OP
 ftbutilities.claims.block.interact.rftools.booster: OP
@@ -12254,7 +12112,6 @@ ftbutilities.claims.block.interact.thermalfoundation.rockwool: OP
 ftbutilities.claims.block.interact.thermalfoundation.storage: OP
 ftbutilities.claims.block.interact.thermalfoundation.storage_alloy: OP
 ftbutilities.claims.block.interact.thermalfoundation.storage_resource: OP
-ftbutilities.claims.block.interact.thuttech.lift: OP
 ftbutilities.claims.block.interact.torchmaster.dread_lamp: OP
 ftbutilities.claims.block.interact.torchmaster.feral_flare_lantern: OP
 ftbutilities.claims.block.interact.torchmaster.invisible_light: OP
@@ -12349,42 +12206,6 @@ ftbutilities.claims.block.interact.xreliquary.interdiction_torch: OP
 ftbutilities.claims.block.interact.xreliquary.pedestal: OP
 ftbutilities.claims.block.interact.xreliquary.pedestal_passive: OP
 ftbutilities.claims.block.interact.xreliquary.wraith_node: OP
-ftbutilities.claims.block.interact.xtones.agon: OP
-ftbutilities.claims.block.interact.xtones.azur: OP
-ftbutilities.claims.block.interact.xtones.base: OP
-ftbutilities.claims.block.interact.xtones.bitt: OP
-ftbutilities.claims.block.interact.xtones.cray: OP
-ftbutilities.claims.block.interact.xtones.fort: OP
-ftbutilities.claims.block.interact.xtones.glaxx: OP
-ftbutilities.claims.block.interact.xtones.iszm: OP
-ftbutilities.claims.block.interact.xtones.jelt: OP
-ftbutilities.claims.block.interact.xtones.korp: OP
-ftbutilities.claims.block.interact.xtones.kryp: OP
-ftbutilities.claims.block.interact.xtones.lair: OP
-ftbutilities.claims.block.interact.xtones.lamp_flat: OP
-ftbutilities.claims.block.interact.xtones.lave: OP
-ftbutilities.claims.block.interact.xtones.mint: OP
-ftbutilities.claims.block.interact.xtones.myst: OP
-ftbutilities.claims.block.interact.xtones.reds: OP
-ftbutilities.claims.block.interact.xtones.reed: OP
-ftbutilities.claims.block.interact.xtones.roen: OP
-ftbutilities.claims.block.interact.xtones.sols: OP
-ftbutilities.claims.block.interact.xtones.sync: OP
-ftbutilities.claims.block.interact.xtones.tank: OP
-ftbutilities.claims.block.interact.xtones.vect: OP
-ftbutilities.claims.block.interact.xtones.vena: OP
-ftbutilities.claims.block.interact.xtones.zane: OP
-ftbutilities.claims.block.interact.xtones.zech: OP
-ftbutilities.claims.block.interact.xtones.zest: OP
-ftbutilities.claims.block.interact.xtones.zeta: OP
-ftbutilities.claims.block.interact.xtones.zion: OP
-ftbutilities.claims.block.interact.xtones.zkul: OP
-ftbutilities.claims.block.interact.xtones.zoea: OP
-ftbutilities.claims.block.interact.xtones.zome: OP
-ftbutilities.claims.block.interact.xtones.zone: OP
-ftbutilities.claims.block.interact.xtones.zorg: OP
-ftbutilities.claims.block.interact.xtones.ztyl: OP
-ftbutilities.claims.block.interact.xtones.zyth: OP
 ftbutilities.claims.block.interact.yabba.antibarrel: OP
 ftbutilities.claims.block.interact.yabba.decorative_block: OP
 ftbutilities.claims.block.interact.yabba.item_barrel: OP
@@ -13020,12 +12841,6 @@ ftbutilities.claims.item.actuallyadditions.stone_paxel: ALL
 ftbutilities.claims.item.actuallyadditions.wooden_paxel: ALL
 ftbutilities.claims.item.advanced_machines.machines: ALL
 ftbutilities.claims.item.advanced_machines.sharp_plate: ALL
-ftbutilities.claims.item.advanced_solar_panels.advancedsolarhelmet: ALL
-ftbutilities.claims.item.advanced_solar_panels.crafting: ALL
-ftbutilities.claims.item.advanced_solar_panels.double_stone_slab: ALL
-ftbutilities.claims.item.advanced_solar_panels.hybridsolarhelmet: ALL
-ftbutilities.claims.item.advanced_solar_panels.machines: ALL
-ftbutilities.claims.item.advanced_solar_panels.ultimatesolarhelmet: ALL
 ftbutilities.claims.item.advancedrocketry.advrocketmotor: ALL
 ftbutilities.claims.item.advancedrocketry.airlock_door: ALL
 ftbutilities.claims.item.advancedrocketry.alienleaves: ALL
@@ -14872,10 +14687,6 @@ ftbutilities.claims.item.chiselsandbits.tape_measure: ALL
 ftbutilities.claims.item.chiselsandbits.wrench_wood: ALL
 ftbutilities.claims.item.clipboard.clipboard: ALL
 ftbutilities.claims.item.colytra.elytra_bauble: ALL
-ftbutilities.claims.item.compactsolars.compact_solar_block: ALL
-ftbutilities.claims.item.compactsolars.solar_hat_high_voltage: ALL
-ftbutilities.claims.item.compactsolars.solar_hat_low_voltage: ALL
-ftbutilities.claims.item.compactsolars.solar_hat_medium_voltage: ALL
 ftbutilities.claims.item.computercraft.advanced_modem: ALL
 ftbutilities.claims.item.computercraft.cable: ALL
 ftbutilities.claims.item.computercraft.command_computer: ALL
@@ -15282,11 +15093,7 @@ ftbutilities.claims.item.enderio.item_redstone_timer_filter: ALL
 ftbutilities.claims.item.enderio.item_redstone_toggle_filter: ALL
 ftbutilities.claims.item.enderio.item_redstone_xnor_filter: ALL
 ftbutilities.claims.item.enderio.item_redstone_xor_filter: ALL
-ftbutilities.claims.item.enderio.item_refined_storage_conduit: ALL
 ftbutilities.claims.item.enderio.item_rod_of_return: ALL
-ftbutilities.claims.item.enderio.item_rs_crafting_speed_downgrade: ALL
-ftbutilities.claims.item.enderio.item_rs_crafting_speed_upgrade: ALL
-ftbutilities.claims.item.enderio.item_rs_crafting_upgrade: ALL
 ftbutilities.claims.item.enderio.item_soul_filter_big: ALL
 ftbutilities.claims.item.enderio.item_soul_filter_normal: ALL
 ftbutilities.claims.item.enderio.item_soul_vial: ALL
@@ -15383,8 +15190,6 @@ ftbutilities.claims.item.engineersdoors.fencegate_steel: ALL
 ftbutilities.claims.item.engineersdoors.fencegate_treated: ALL
 ftbutilities.claims.item.engineersdoors.trapdoor_steel: ALL
 ftbutilities.claims.item.engineersdoors.trapdoor_treated: ALL
-ftbutilities.claims.item.engineersworkshop.blocktable: ALL
-ftbutilities.claims.item.engineersworkshop.upgrade: ALL
 ftbutilities.claims.item.environmentaltech.aethium: ALL
 ftbutilities.claims.item.environmentaltech.aethium_brick_slab: ALL
 ftbutilities.claims.item.environmentaltech.aethium_brick_stairs: ALL
@@ -18930,9 +18735,7 @@ ftbutilities.claims.item.iceandfire.witherbone: ALL
 ftbutilities.claims.item.immersivecables.coil_block: ALL
 ftbutilities.claims.item.immersivecables.connector_quartz: ALL
 ftbutilities.claims.item.immersivecables.relay_fluix: ALL
-ftbutilities.claims.item.immersivecables.relay_refined: ALL
 ftbutilities.claims.item.immersivecables.transformer_fluix: ALL
-ftbutilities.claims.item.immersivecables.transformer_refined: ALL
 ftbutilities.claims.item.immersivecables.wire_coil: ALL
 ftbutilities.claims.item.immersiveengineering.aluminum_scaffolding_stairs0: ALL
 ftbutilities.claims.item.immersiveengineering.aluminum_scaffolding_stairs1: ALL
@@ -19029,21 +18832,6 @@ ftbutilities.claims.item.immersiveposts.fence_silver: ALL
 ftbutilities.claims.item.immersiveposts.fence_uranium: ALL
 ftbutilities.claims.item.immersiveposts.metal_rods: ALL
 ftbutilities.claims.item.immersiveposts.postbase: ALL
-ftbutilities.claims.item.immersiverailroading.item_augment: ALL
-ftbutilities.claims.item.immersiverailroading.item_cast_rail: ALL
-ftbutilities.claims.item.immersiverailroading.item_conductor_whistle: ALL
-ftbutilities.claims.item.immersiverailroading.item_golden_spike: ALL
-ftbutilities.claims.item.immersiverailroading.item_hook: ALL
-ftbutilities.claims.item.immersiverailroading.item_large_wrench: ALL
-ftbutilities.claims.item.immersiverailroading.item_manual: ALL
-ftbutilities.claims.item.immersiverailroading.item_paint_brush: ALL
-ftbutilities.claims.item.immersiverailroading.item_plate: ALL
-ftbutilities.claims.item.immersiverailroading.item_radio_control_card: ALL
-ftbutilities.claims.item.immersiverailroading.item_rail: ALL
-ftbutilities.claims.item.immersiverailroading.item_rail_part: ALL
-ftbutilities.claims.item.immersiverailroading.item_rolling_stock: ALL
-ftbutilities.claims.item.immersiverailroading.item_rolling_stock_component: ALL
-ftbutilities.claims.item.immersiverailroading.item_switch_key: ALL
 ftbutilities.claims.item.immersivetech.connectors: ALL
 ftbutilities.claims.item.immersivetech.material: ALL
 ftbutilities.claims.item.immersivetech.metal_device: ALL
@@ -19884,107 +19672,6 @@ ftbutilities.claims.item.libvulpes.productplate: ALL
 ftbutilities.claims.item.libvulpes.productrod: ALL
 ftbutilities.claims.item.libvulpes.productsheet: ALL
 ftbutilities.claims.item.libvulpes.structuremachine: ALL
-ftbutilities.claims.item.logisticspipes.broken_item: ALL
-ftbutilities.claims.item.logisticspipes.chip_advanced: ALL
-ftbutilities.claims.item.logisticspipes.chip_advanced_raw: ALL
-ftbutilities.claims.item.logisticspipes.chip_basic: ALL
-ftbutilities.claims.item.logisticspipes.chip_basic_raw: ALL
-ftbutilities.claims.item.logisticspipes.chip_fpga: ALL
-ftbutilities.claims.item.logisticspipes.chip_fpga_raw: ALL
-ftbutilities.claims.item.logisticspipes.crafting_table: ALL
-ftbutilities.claims.item.logisticspipes.crafting_table_fuzzy: ALL
-ftbutilities.claims.item.logisticspipes.disk: ALL
-ftbutilities.claims.item.logisticspipes.fluid_container: ALL
-ftbutilities.claims.item.logisticspipes.frame: ALL
-ftbutilities.claims.item.logisticspipes.guide_book: ALL
-ftbutilities.claims.item.logisticspipes.hud_glasses: ALL
-ftbutilities.claims.item.logisticspipes.item_card: ALL
-ftbutilities.claims.item.logisticspipes.logistics_programmer: ALL
-ftbutilities.claims.item.logisticspipes.module_active_supplier: ALL
-ftbutilities.claims.item.logisticspipes.module_blank: ALL
-ftbutilities.claims.item.logisticspipes.module_crafter: ALL
-ftbutilities.claims.item.logisticspipes.module_enchantment_sink: ALL
-ftbutilities.claims.item.logisticspipes.module_enchantment_sink_mk2: ALL
-ftbutilities.claims.item.logisticspipes.module_extractor: ALL
-ftbutilities.claims.item.logisticspipes.module_extractor_advanced: ALL
-ftbutilities.claims.item.logisticspipes.module_item_sink: ALL
-ftbutilities.claims.item.logisticspipes.module_item_sink_creativetab: ALL
-ftbutilities.claims.item.logisticspipes.module_item_sink_mod: ALL
-ftbutilities.claims.item.logisticspipes.module_item_sink_oredict: ALL
-ftbutilities.claims.item.logisticspipes.module_item_sink_polymorphic: ALL
-ftbutilities.claims.item.logisticspipes.module_passive_supplier: ALL
-ftbutilities.claims.item.logisticspipes.module_provider: ALL
-ftbutilities.claims.item.logisticspipes.module_quick_sort: ALL
-ftbutilities.claims.item.logisticspipes.module_terminus: ALL
-ftbutilities.claims.item.logisticspipes.parts: ALL
-ftbutilities.claims.item.logisticspipes.pipe_basic: ALL
-ftbutilities.claims.item.logisticspipes.pipe_chassis_mk1: ALL
-ftbutilities.claims.item.logisticspipes.pipe_chassis_mk2: ALL
-ftbutilities.claims.item.logisticspipes.pipe_chassis_mk3: ALL
-ftbutilities.claims.item.logisticspipes.pipe_chassis_mk4: ALL
-ftbutilities.claims.item.logisticspipes.pipe_chassis_mk5: ALL
-ftbutilities.claims.item.logisticspipes.pipe_controller: ALL
-ftbutilities.claims.item.logisticspipes.pipe_crafting: ALL
-ftbutilities.claims.item.logisticspipes.pipe_firewall: ALL
-ftbutilities.claims.item.logisticspipes.pipe_fluid_basic: ALL
-ftbutilities.claims.item.logisticspipes.pipe_fluid_extractor: ALL
-ftbutilities.claims.item.logisticspipes.pipe_fluid_insertion: ALL
-ftbutilities.claims.item.logisticspipes.pipe_fluid_provider: ALL
-ftbutilities.claims.item.logisticspipes.pipe_fluid_request: ALL
-ftbutilities.claims.item.logisticspipes.pipe_fluid_satellite: ALL
-ftbutilities.claims.item.logisticspipes.pipe_fluid_supplier: ALL
-ftbutilities.claims.item.logisticspipes.pipe_fluid_supplier_mk2: ALL
-ftbutilities.claims.item.logisticspipes.pipe_hs_curve: ALL
-ftbutilities.claims.item.logisticspipes.pipe_hs_gain: ALL
-ftbutilities.claims.item.logisticspipes.pipe_hs_line: ALL
-ftbutilities.claims.item.logisticspipes.pipe_hs_s_curve: ALL
-ftbutilities.claims.item.logisticspipes.pipe_hs_speedup: ALL
-ftbutilities.claims.item.logisticspipes.pipe_inventory_system_connector: ALL
-ftbutilities.claims.item.logisticspipes.pipe_manager: ALL
-ftbutilities.claims.item.logisticspipes.pipe_provider: ALL
-ftbutilities.claims.item.logisticspipes.pipe_remote_orderer: ALL
-ftbutilities.claims.item.logisticspipes.pipe_request: ALL
-ftbutilities.claims.item.logisticspipes.pipe_request_mk2: ALL
-ftbutilities.claims.item.logisticspipes.pipe_request_table: ALL
-ftbutilities.claims.item.logisticspipes.pipe_satellite: ALL
-ftbutilities.claims.item.logisticspipes.pipe_supplier: ALL
-ftbutilities.claims.item.logisticspipes.pipe_system_destination: ALL
-ftbutilities.claims.item.logisticspipes.pipe_system_entrance: ALL
-ftbutilities.claims.item.logisticspipes.pipe_transport_basic: ALL
-ftbutilities.claims.item.logisticspipes.power_junction: ALL
-ftbutilities.claims.item.logisticspipes.power_provider_eu: ALL
-ftbutilities.claims.item.logisticspipes.power_provider_mj: ALL
-ftbutilities.claims.item.logisticspipes.power_provider_rf: ALL
-ftbutilities.claims.item.logisticspipes.program_compiler: ALL
-ftbutilities.claims.item.logisticspipes.remote_orderer: ALL
-ftbutilities.claims.item.logisticspipes.security_station: ALL
-ftbutilities.claims.item.logisticspipes.sign_creator: ALL
-ftbutilities.claims.item.logisticspipes.statistics_table: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_action_speed: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_cc_remote_control: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_crafting_byproduct: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_crafting_cleanup: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_crafting_monitoring: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_disconnection: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_fluid_crafting: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_fuzzy: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_item_extraction: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_item_stack_extraction: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_logic_controller: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_module_upgrade: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_opaque: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_pattern: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_power_supplier_eu_ev: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_power_supplier_eu_hv: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_power_supplier_eu_lv: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_power_supplier_eu_mv: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_power_supplier_mj: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_power_supplier_rf: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_power_transportation: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_satellite_advanced: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_sneaky: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_sneaky_combination: ALL
-ftbutilities.claims.item.logisticspipes.upgrade_speed: ALL
 ftbutilities.claims.item.longfallboots.longfallboots: ALL
 ftbutilities.claims.item.magicbees.beecomb: ALL
 ftbutilities.claims.item.magicbees.drop: ALL
@@ -20661,7 +20348,6 @@ ftbutilities.claims.item.minecraft.written_book: ALL
 ftbutilities.claims.item.minecraft.yellow_flower: ALL
 ftbutilities.claims.item.minecraft.yellow_glazed_terracotta: ALL
 ftbutilities.claims.item.minecraft.yellow_shulker_box: ALL
-ftbutilities.claims.item.morphtool.tool: ALL
 ftbutilities.claims.item.mysticalworld.amethyst_axe: ALL
 ftbutilities.claims.item.mysticalworld.amethyst_block: ALL
 ftbutilities.claims.item.mysticalworld.amethyst_gem: ALL
@@ -22016,10 +21702,6 @@ ftbutilities.claims.item.railcraft.worldlogic: ALL
 ftbutilities.claims.item.railcraft.worldspike: ALL
 ftbutilities.claims.item.railcraft.worldspike_point: ALL
 ftbutilities.claims.item.rangedpumps.pump: ALL
-ftbutilities.claims.item.rebornstorage.multicrafter: ALL
-ftbutilities.claims.item.rebornstorage.storagecell: ALL
-ftbutilities.claims.item.rebornstorage.storagecellfluid: ALL
-ftbutilities.claims.item.rebornstorage.storagepart: ALL
 ftbutilities.claims.item.redstonearsenal.armor.boots_flux: ALL
 ftbutilities.claims.item.redstonearsenal.armor.helmet_flux: ALL
 ftbutilities.claims.item.redstonearsenal.armor.legs_flux: ALL
@@ -22039,58 +21721,6 @@ ftbutilities.claims.item.redstonearsenal.tool.sickle_flux: ALL
 ftbutilities.claims.item.redstonearsenal.tool.sword_flux: ALL
 ftbutilities.claims.item.redstonearsenal.tool.wrench_flux: ALL
 ftbutilities.claims.item.redstonearsenal.util.quiver_flux: ALL
-ftbutilities.claims.item.refinedstorage.cable: ALL
-ftbutilities.claims.item.refinedstorage.constructor: ALL
-ftbutilities.claims.item.refinedstorage.controller: ALL
-ftbutilities.claims.item.refinedstorage.core: ALL
-ftbutilities.claims.item.refinedstorage.cover: ALL
-ftbutilities.claims.item.refinedstorage.crafter: ALL
-ftbutilities.claims.item.refinedstorage.crafter_manager: ALL
-ftbutilities.claims.item.refinedstorage.crafting_monitor: ALL
-ftbutilities.claims.item.refinedstorage.cutting_tool: ALL
-ftbutilities.claims.item.refinedstorage.destructor: ALL
-ftbutilities.claims.item.refinedstorage.detector: ALL
-ftbutilities.claims.item.refinedstorage.disk_drive: ALL
-ftbutilities.claims.item.refinedstorage.disk_manipulator: ALL
-ftbutilities.claims.item.refinedstorage.exporter: ALL
-ftbutilities.claims.item.refinedstorage.external_storage: ALL
-ftbutilities.claims.item.refinedstorage.filter: ALL
-ftbutilities.claims.item.refinedstorage.fluid_interface: ALL
-ftbutilities.claims.item.refinedstorage.fluid_storage: ALL
-ftbutilities.claims.item.refinedstorage.fluid_storage_disk: ALL
-ftbutilities.claims.item.refinedstorage.fluid_storage_part: ALL
-ftbutilities.claims.item.refinedstorage.grid: ALL
-ftbutilities.claims.item.refinedstorage.hollow_cover: ALL
-ftbutilities.claims.item.refinedstorage.importer: ALL
-ftbutilities.claims.item.refinedstorage.interface: ALL
-ftbutilities.claims.item.refinedstorage.machine_casing: ALL
-ftbutilities.claims.item.refinedstorage.network_card: ALL
-ftbutilities.claims.item.refinedstorage.network_receiver: ALL
-ftbutilities.claims.item.refinedstorage.network_transmitter: ALL
-ftbutilities.claims.item.refinedstorage.pattern: ALL
-ftbutilities.claims.item.refinedstorage.portable_grid: ALL
-ftbutilities.claims.item.refinedstorage.processor: ALL
-ftbutilities.claims.item.refinedstorage.processor_binding: ALL
-ftbutilities.claims.item.refinedstorage.quartz_enriched_iron: ALL
-ftbutilities.claims.item.refinedstorage.quartz_enriched_iron_block: ALL
-ftbutilities.claims.item.refinedstorage.reader: ALL
-ftbutilities.claims.item.refinedstorage.relay: ALL
-ftbutilities.claims.item.refinedstorage.security_card: ALL
-ftbutilities.claims.item.refinedstorage.security_manager: ALL
-ftbutilities.claims.item.refinedstorage.silicon: ALL
-ftbutilities.claims.item.refinedstorage.storage: ALL
-ftbutilities.claims.item.refinedstorage.storage_disk: ALL
-ftbutilities.claims.item.refinedstorage.storage_housing: ALL
-ftbutilities.claims.item.refinedstorage.storage_monitor: ALL
-ftbutilities.claims.item.refinedstorage.storage_part: ALL
-ftbutilities.claims.item.refinedstorage.upgrade: ALL
-ftbutilities.claims.item.refinedstorage.wireless_crafting_monitor: ALL
-ftbutilities.claims.item.refinedstorage.wireless_fluid_grid: ALL
-ftbutilities.claims.item.refinedstorage.wireless_grid: ALL
-ftbutilities.claims.item.refinedstorage.wireless_transmitter: ALL
-ftbutilities.claims.item.refinedstorage.wrench: ALL
-ftbutilities.claims.item.refinedstorage.writer: ALL
-ftbutilities.claims.item.refinedstorageaddons.wireless_crafting_grid: ALL
 ftbutilities.claims.item.rftools.advanced_charged_porter: ALL
 ftbutilities.claims.item.rftools.analog_block: ALL
 ftbutilities.claims.item.rftools.blindness_module: ALL
@@ -23440,8 +23070,6 @@ ftbutilities.claims.item.thermalinnovation.injector: ALL
 ftbutilities.claims.item.thermalinnovation.magnet: ALL
 ftbutilities.claims.item.thermalinnovation.quiver: ALL
 ftbutilities.claims.item.thermalinnovation.saw: ALL
-ftbutilities.claims.item.thuttech.devicelinker: ALL
-ftbutilities.claims.item.thuttech.lift: ALL
 ftbutilities.claims.item.torchmaster.dread_lamp: ALL
 ftbutilities.claims.item.torchmaster.feral_flare_lantern: ALL
 ftbutilities.claims.item.torchmaster.frozen_pearl: ALL
@@ -23672,42 +23300,6 @@ ftbutilities.claims.item.xreliquary.void_tear: ALL
 ftbutilities.claims.item.xreliquary.witch_hat: ALL
 ftbutilities.claims.item.xreliquary.witherless_rose: ALL
 ftbutilities.claims.item.xreliquary.wraith_node: ALL
-ftbutilities.claims.item.xtones.agon: ALL
-ftbutilities.claims.item.xtones.azur: ALL
-ftbutilities.claims.item.xtones.base: ALL
-ftbutilities.claims.item.xtones.bitt: ALL
-ftbutilities.claims.item.xtones.cray: ALL
-ftbutilities.claims.item.xtones.fort: ALL
-ftbutilities.claims.item.xtones.glaxx: ALL
-ftbutilities.claims.item.xtones.iszm: ALL
-ftbutilities.claims.item.xtones.jelt: ALL
-ftbutilities.claims.item.xtones.korp: ALL
-ftbutilities.claims.item.xtones.kryp: ALL
-ftbutilities.claims.item.xtones.lair: ALL
-ftbutilities.claims.item.xtones.lamp_flat: ALL
-ftbutilities.claims.item.xtones.lave: ALL
-ftbutilities.claims.item.xtones.mint: ALL
-ftbutilities.claims.item.xtones.myst: ALL
-ftbutilities.claims.item.xtones.reds: ALL
-ftbutilities.claims.item.xtones.reed: ALL
-ftbutilities.claims.item.xtones.roen: ALL
-ftbutilities.claims.item.xtones.sols: ALL
-ftbutilities.claims.item.xtones.sync: ALL
-ftbutilities.claims.item.xtones.tank: ALL
-ftbutilities.claims.item.xtones.vect: ALL
-ftbutilities.claims.item.xtones.vena: ALL
-ftbutilities.claims.item.xtones.zane: ALL
-ftbutilities.claims.item.xtones.zech: ALL
-ftbutilities.claims.item.xtones.zest: ALL
-ftbutilities.claims.item.xtones.zeta: ALL
-ftbutilities.claims.item.xtones.zion: ALL
-ftbutilities.claims.item.xtones.zkul: ALL
-ftbutilities.claims.item.xtones.zoea: ALL
-ftbutilities.claims.item.xtones.zome: ALL
-ftbutilities.claims.item.xtones.zone: ALL
-ftbutilities.claims.item.xtones.zorg: ALL
-ftbutilities.claims.item.xtones.ztyl: ALL
-ftbutilities.claims.item.xtones.zyth: ALL
 ftbutilities.claims.item.yabba.antibarrel: ALL
 ftbutilities.claims.item.yabba.decorative_block: ALL
 ftbutilities.claims.item.yabba.hammer: ALL
@@ -23969,13 +23561,11 @@ command.immersiveengineering.ie.mineral.list
 command.immersiveengineering.ie.mineral.set
 command.immersiveengineering.ie.mineral.setdepletion
 command.immersivepetroleum.ip
-command.immersiverailroading.immersiverailroading
 command.industrialwires.iw
 command.jeresources.jer_profile
 command.journeymap.jtp
 command.kill
 command.locate
-command.logisticspipes.logisticspipes
 command.mdecore.mde
 command.mdecore.tps
 command.me
@@ -24010,9 +23600,7 @@ command.quark.quarkconfig
 command.railcraft.railcraft
 command.reborncore.rc_dumpmods
 command.reborncore.rc_listrecipes
-command.rebornstorage.rsmblock
 command.recipe
-command.refinedstorage.createdisk
 command.replaceitem
 command.rftools.rftcfg
 command.rftools.rftshape
@@ -24054,8 +23642,6 @@ command.testforblocks
 command.thaumcraft.thaumcraft
 command.thaumictinkerer.dumpenchants
 command.thaumictinkerer.refreshmulti
-command.thutcore.tcterrain
-command.thutcore.thutcoresettings
 command.time
 command.tinkertoolleveling.leveluptool
 command.title
