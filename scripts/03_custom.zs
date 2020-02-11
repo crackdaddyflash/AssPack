@@ -1,0 +1,2 @@
+mods.thermalexpansion.Pulverizer.addRecipe(<immersiveengineering:material:17>, <immersiveengineering:material:6>, 4000);
+mods.thermalexpansion.Pulverizer.addRecipe(<immersiveengineering:material:17> * 9, <immersiveengineering:stone_decoration:3>, 36000);
