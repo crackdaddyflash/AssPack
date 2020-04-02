@@ -25,7 +25,7 @@
             "normalTextColor" : -1,
 			"hoverTextColor" : 10027008,
 			"alignment" : "left_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "texture" : "mainmenu:tjena.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -43,7 +43,7 @@
             "normalTextColor" : -1,
 			"hoverTextColor" : 10027008,
 			"alignment" : "left_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "texture" : "mainmenu:tjena.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -61,7 +61,7 @@
             "normalTextColor" : -1,
 			"hoverTextColor" : 10027008,
 			"alignment" : "left_center",
-			"texture" : "mainmenu:blankbutton.png",
+			"texture" : "mainmenu:tjena.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -79,7 +79,7 @@
             "normalTextColor" : -1,
 			"hoverTextColor" : 10027008,
 			"alignment" : "left_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "texture" : "mainmenu:tjena.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -97,7 +97,7 @@
             "normalTextColor" : -1,
 			"hoverTextColor" : 10027008,
 			"alignment" : "left_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "texture" : "mainmenu:tjena.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -115,11 +115,11 @@
             "normalTextColor" : -1,
 			"hoverTextColor" : 10027008,
 			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "texture" : "mainmenu:tjena.png",
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://github.com/FTBTeam/FTB-Revelation-2/issues"
+				"link" : "https://youtu.be/Rr_5BWqCgNg"
             }
         },		
         "changelog":
@@ -133,7 +133,7 @@
             "normalTextColor" : -1,
 			"hoverTextColor" : 10027008,
 			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "texture" : "mainmenu:tjena.png",
             "action" : 
             {
                 "type" : "openLink",
@@ -151,7 +151,7 @@
             "normalTextColor" : -1,
 			"hoverTextColor" : 10027008,
 			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "texture" : "mainmenu:tjena.png",
             "action" : 
             {
                 "type" : "openLink",
@@ -169,7 +169,7 @@
             "normalTextColor" : -1,
 			"hoverTextColor" : 10027008,
 			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "texture" : "mainmenu:tjena.png",
             "action" : 
             {
                 "type" : "openLink",
@@ -187,7 +187,7 @@
             "normalTextColor" : -1,
 			"hoverTextColor" : 10027008,
 			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
+            "texture" : "mainmenu:tjena.png",
             "action" : 
             {
                 "type" : "quit"
