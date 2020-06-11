@@ -187,33 +187,4 @@ recipes.addShapeless(<thaumcraft:plate:3>,
 	[<immersiveengineering:tool>, <thaumcraft:ingot:1>]
 );
 
-	//fix nuclearcraft plate recipes
-recipes.addShapedMirrored(<nuclearcraft:part:0>,
-[
-[<ore:dustGraphite>, <ore:ingotLead>,],
-[<ore:ingotLead>, <ore:dustGraphite>]
-]
-);
-recipes.addShaped("Advanced Plate", <nuclearcraft:part:1>,
-[
-[<ore:dustRedstone>, <ore:ingotTough>, <ore:dustRedstone>],
-[<ore:ingotTough>, <nuclearcraft:part:0>,  <ore:ingotTough>],
-[<ore:dustRedstone>,  <ore:ingotTough>, <ore:dustRedstone>]
-]
-);
-recipes.addShaped("Du Plate", <nuclearcraft:part:2>,
-[
-[<ore:dustSulfur>, <nuclearcraft:uranium:8>, <ore:dustSulfur>],
-[<nuclearcraft:uranium:8>, <nuclearcraft:part:1>, <nuclearcraft:uranium:8>],
-[<ore:dustSulfur>,  <nuclearcraft:uranium:8>, <ore:dustSulfur>]
-]
-);
-recipes.addShaped("Elite Plate", <nuclearcraft:part:3>,
-[
-[<ore:dustRhodochrosite>, <ore:ingotBoron>, <ore:dustRhodochrosite>],
-[<ore:ingotBoron>, <nuclearcraft:part:2>, <ore:ingotBoron>,],
-[<ore:dustRhodochrosite>, <ore:ingotBoron>, <ore:dustRhodochrosite>]
-]
-);
-
 print("Initialized 'unification.zs'");
